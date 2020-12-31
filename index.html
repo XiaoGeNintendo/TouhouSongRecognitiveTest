@@ -1,182 +1,235 @@
 <html>
-    <head>
-        <title>Touhou Song Recognitive Test By XGN from HHS</title>
-        <script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
+
+<head>
+    <title>Touhou Song Recognitive Test By XGN from HHS</title>
+    <script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
     <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
     <script src="https://cdn.staticfile.org/howler/2.2.1/howler.js"></script>
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="index.css">
     <script src="source.js"></script>
     <script src="pack.js"></script>
     <script src="game.js"></script>
-    </head>
-    <body>
-        东方原曲认知大赛<br/>
-        应该是移动端友好的吧<br/>
-        <hr/>
-        <div id="setting">
-            <h1>设置</h1>
-            片段长度：<input id="len" type="number" placeholder="Length in seconds" value=10> <br/>
-            
-            <button onclick="clearss()" class="btn btn-danger">清空选择</button> <br/>
-            快捷选择系列:
-            <div id="fran">加载中</div> <br/>
+</head>
 
-            选择作品：
-            <div id="fill">加载中</div>
+<body>
+    <div class="container">
+        <h1>东方原曲认知大赛</h1>
+        <p><del>应该是移动端友好的吧</del></p>
+        <hr>
+        <div id="setting">
+            <h2>设置</h2>
+            <br>
+            <div class="input-group" style="max-width: 300px;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">片段长度</span>
+                </div>
+                <input id="len" type="number" class="form-control" placeholder="Length in seconds" value="10">
+            </div>
+            <br>
+            <div id="fran">加载中</div>
+            <br>
+            <div class="card">
+                <div class="card-header" style="padding:3px;">
+                    <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse"
+                        data-target="#origin-details">
+                        来源详细信息
+                    </button>
+                </div>
+                <div id="origin-details" class="collapse show">
+                    <div class="card-body clearfix" id="fill">
+                        加载中
+                    </div>
+                </div>
+            </div>
+            <br>
             <button onclick="SettingDone()" class="btn btn-primary">确定</button>
         </div>
 
         <div id="game">
             <h1>游戏</h1>
-            正确率: <i id="cpre">100%(0/0)</i> <br/>
-            已选择：<i id="selected">N/A</i> <br/>
-            正确答案：<i id="real">????</i> <br/>
-            <button onclick="Play('test')" class="btn btn-primary" disabled="true" id="playbtn">播放片段</button>
-            <button onclick="Confirm()" class="btn btn-success" id="confirmbtn">确认答案</button>
-            <button onclick="Next()" class="btn btn-primary" disabled="true" id="nextbtn">下一题</button>
-            <button onclick="Link()" class="btn btn-secondary" disabled="true" id="linkbtn">THWIKI链接</button>
-            <button onclick="Play('__default')" class="btn btn-dark" id="play2btn">从开头播放曲目</button>
-            <button onclick="Play('test2')" class="btn btn-dark" id="play3btn">从测试点前5秒开始播放</button>
-            
-            <br/>
-            
+            正确率: <i id="cpre">100%(0/0)</i> <br />
+            已选择：<i id="selected">N/A</i> <br />
+            正确答案：<i id="real">????</i> <br />
+            <button onclick="Play('test')" class="btn btn-primary" disabled="true" id="playbtn">
+                播放片段
+            </button>
+            <button onclick="Confirm()" class="btn btn-success" id="confirmbtn">
+                确认答案
+            </button>
+            <button onclick="Next()" class="btn btn-primary" disabled="true" id="nextbtn">
+                下一题
+            </button>
+            <button onclick="Link()" class="btn btn-secondary" disabled="true" id="linkbtn">
+                THWIKI链接
+            </button>
+            <button onclick="Play('__default')" class="btn btn-dark" id="play2btn">
+                从开头播放曲目
+            </button>
+            <button onclick="Play('test2')" class="btn btn-dark" id="play3btn">
+                从测试点前5秒开始播放
+            </button>
+
+            <br />
+
             <table border="1">
                 <tr>
                     <td>
-                        <div id="GS">
-                        </div>
+                        <div id="GS"></div>
                     </td>
                     <td>
-                        <div id="FS">
-                            在左边选择作品
-                        </div>
+                        <div id="FS">在左边选择作品</div>
                     </td>
                 </tr>
             </table>
         </div>
-    </body>
+</body>
+</div>
+<script>
+    loadSong();
 
-    <script>
-        loadSong()
+    var html = "";
+    for (var i in songs) {
+        html += '<div class="origin"><input id="inp_' + i + '" type="checkbox"><span> ' + i + '</span></div>';
+    }
+    document.getElementById("fill").innerHTML = html;
 
+    html = '<button onClick="loadAll()" class="btn btn-primary">全部</button>';
+    for (var i in pack) {
+        html +=
+            '<button onClick="loadPack(\'' +
+            i +
+            '\')" class="btn btn-primary">' +
+            i +
+            '</button>';
+    }
+    html += '<button onclick="clearAll()" class="btn btn-danger">清空选择</button>'
+    document.getElementById("fran").innerHTML = html;
 
-        var html=""
-        for(var i in songs){
-            html+="<input id=\"inp_"+i+"\" type=\"checkbox\">"+i+"  "
+    function loadPack(id) {
+        for (var i in pack[id]) {
+            document.getElementById("inp_" + pack[id][i]).checked = true;
         }
-        document.getElementById("fill").innerHTML=html
+    }
 
-        html=""
-        for(var i in pack){
-            html+='<button onClick="loadPack(\''+i+'\')" class="btn btn-primary">'+i+'</button>'
+    function loadAll() {
+        for (var i in songs) {
+            document.getElementById("inp_" + i).checked = true;
         }
-        document.getElementById("fran").innerHTML=html
+    }
 
-        function loadPack(id){
-            for(var i in pack[id]){
-                document.getElementById("inp_"+pack[id][i]).checked=true
-            }
+    function clearAll() {
+        for (var i in songs) {
+            document.getElementById("inp_" + i).checked = false;
         }
+    }
 
-        function clearss(){
-            for(var i in songs){
-                document.getElementById("inp_"+i).checked=false
-            }
-        }
+    document.getElementById("game").style.display = "none";
 
-        document.getElementById("game").style.display="none"
+    function SettingDone() {
+        document.getElementById("setting").style.display = "none";
+        document.getElementById("game").style.display = "block";
 
-        function SettingDone(){
-            document.getElementById("setting").style.display="none"
-            document.getElementById("game").style.display="block"
+        var file = "";
 
-            var file=""
-
-            for(var i in songs){
-                if(document.getElementById("inp_"+i).checked){
-                    for(var j in songs[i]){
-                        avSong.push(songs[i][j])
-                    }
-                    file+='<i class="fa fa-folder btn btn-dark" onclick="unfold(\''+i+'\')">'+i+'</i><br/><br/>'
+        for (var i in songs) {
+            if (document.getElementById("inp_" + i).checked) {
+                for (var j in songs[i]) {
+                    avSong.push(songs[i][j]);
                 }
-            }
-            document.getElementById("GS").innerHTML=file
-
-            newProb()
-        }
-
-        function openInNewTab(url) {
-            var win = window.open(url, '_blank');
-            win.focus();
-        }
-
-        function Link(){
-            openInNewTab("https://thwiki.cc/"+nowSong.name.replace(" ","_"))
-        }
-        function newProb(){
-            selected="N/A"
-            document.getElementById("selected").innerHTML=selected
-            document.getElementById("real").innerHTML="???"
-            document.getElementById("confirmbtn").disabled=false
-            document.getElementById("nextbtn").disabled=true
-            document.getElementById("linkbtn").disabled=true
-            document.getElementById("play2btn").disabled=true
-            document.getElementById("play3btn").disabled=true
-            genProb()
-        }
-
-        function Play(id){
-            if(ready){
-                if(sound.playing()){
-                    sound.stop()
-                }else{
-                    sound.play(id)
-                }
-            }else{
-                alert("加载中")
+                file +=
+                    '<i class="fa fa-folder btn btn-dark" onclick="unfold(\'' +
+                    i +
+                    "')\">" +
+                    i +
+                    "</i><br/><br/>";
             }
         }
+        document.getElementById("GS").innerHTML = file;
 
-        var selected="N/A"
-        var correct=0
-        var total=0
+        newProb();
+    }
 
-        function Next(){
-            sound.stop()
-            newProb();
-        }
+    function openInNewTab(url) {
+        var win = window.open(url, "_blank");
+        win.focus();
+    }
 
-        function Confirm(){
-            document.getElementById("real").innerHTML=nowSong.name+" 来自 "+nowSong.cate+" 从 "+start+"秒"
-            document.getElementById("confirmbtn").disabled=true
-            document.getElementById("nextbtn").disabled=false
-            document.getElementById("linkbtn").disabled=false
-            document.getElementById("play2btn").disabled=false
-            document.getElementById("play3btn").disabled=false
-            if(selected==nowSong.name){
-                correct++;
+    function Link() {
+        openInNewTab("https://thwiki.cc/" + nowSong.name.replace(" ", "_"));
+    }
+
+    function newProb() {
+        selected = "N/A";
+        document.getElementById("selected").innerHTML = selected;
+        document.getElementById("real").innerHTML = "???";
+        document.getElementById("confirmbtn").disabled = false;
+        document.getElementById("nextbtn").disabled = true;
+        document.getElementById("linkbtn").disabled = true;
+        document.getElementById("play2btn").disabled = true;
+        document.getElementById("play3btn").disabled = true;
+        genProb();
+    }
+
+    function Play(id) {
+        if (ready) {
+            if (sound.playing()) {
+                sound.stop();
+            } else {
+                sound.play(id);
             }
-            total++;
+        } else {
+            alert("加载中");
+        }
+    }
 
-            document.getElementById("cpre").innerHTML=correct/total*100+"%"+"("+correct+"/"+total+")"
+    var selected = "N/A";
+    var correct = 0;
+    var total = 0;
+
+    function Next() {
+        sound.stop();
+        newProb();
+    }
+
+    function Confirm() {
+        document.getElementById("real").innerHTML =
+            nowSong.name + " 来自 " + nowSong.cate + " 从 " + start + "秒";
+        document.getElementById("confirmbtn").disabled = true;
+        document.getElementById("nextbtn").disabled = false;
+        document.getElementById("linkbtn").disabled = false;
+        document.getElementById("play2btn").disabled = false;
+        document.getElementById("play3btn").disabled = false;
+        if (selected == nowSong.name) {
+            correct++;
+        }
+        total++;
+
+        document.getElementById("cpre").innerHTML =
+            (correct / total) * 100 + "%" + "(" + correct + "/" + total + ")";
+    }
+
+    function unfold(proj) {
+        var file = "";
+
+        for (var i in songs[proj]) {
+            file +=
+                '<i class="fa fa-music btn btn-success" onclick="select(\'' +
+                songs[proj][i].name +
+                "')\">" +
+                songs[proj][i].name +
+                "</i><br/>";
         }
 
-        function unfold(proj){
-            var file=""
+        document.getElementById("FS").innerHTML = file;
+    }
 
-            for(var i in songs[proj]){
-                file+='<i class="fa fa-music btn btn-success" onclick="select(\''+songs[proj][i].name+'\')">'+songs[proj][i].name+"</i><br/>"
-            }
+    function select(song) {
+        selected = song;
+        document.getElementById("selected").innerHTML = song;
+    }
+</script>
 
-            document.getElementById("FS").innerHTML=file
-        }
-
-
-        function select(song){
-            selected=song
-            document.getElementById("selected").innerHTML=song
-        }
-    </script>
 </html>
