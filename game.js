@@ -59,3 +59,27 @@ function genProb() {
         console.log("New song:" + JSON.stringify(nowSong) + " select from:" + start * 1000 + " " + len + " " + testlen);
     });
 }
+
+function lss(pos,val){
+    localStorage.setItem(pos,val);
+}
+
+function lsm(pos,val){
+    lss(pos,lsg(pos)+val);
+}
+
+function lsg(pos){
+    if(localStorage.getItem(pos)==null){
+        lss(pos,0);
+    }
+    return parseInt(localStorage.getItem(pos));
+}
+
+function addToStat(real,sel){
+    lsm(real+"_meet",1);
+    if(sel==real){
+        lsm(real+"_correct",1);
+    }else{
+        lsm(sel+"_mistake",1);
+    }
+}
