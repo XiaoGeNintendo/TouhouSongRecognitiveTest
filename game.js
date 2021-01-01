@@ -75,10 +75,11 @@ function lsg(pos){
     return parseInt(localStorage.getItem(pos));
 }
 
-function addToStat(real,sel){
+function addToStat(real,sel,time){
     lsm(real+"_meet",1);
     if(sel==real){
         lsm(real+"_correct",1);
+        lsm(real+"_response",time);
     }else{
         lsm(sel+"_mistake",1);
     }

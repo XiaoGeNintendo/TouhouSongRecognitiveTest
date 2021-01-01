@@ -25,6 +25,7 @@
         <hr/>
         
         
+        <button onclick="localStorage.clear();alert('成功。请刷新');" class="btn btn-danger">删除全部统计数据</button>
 
         <h1>总计</h1>
         <div id="all">加载中</div>
@@ -93,6 +94,9 @@
                 <th>
                     正确率
                 </th>
+                <th>
+                    平均反应时间
+                </th>
             </tr>
         `;
     let trt=`
@@ -102,6 +106,7 @@
                 <td>{2}</td>
                 <td>{3}</td>
                 <td>{4}</td>
+                <td>{5}</td>
             </tr>
             `
 
@@ -125,7 +130,12 @@
         var html=tt;
 
         var i=null;
-        html+=String.format(trt,"总计",countAPack(i,"meet"),countAPack(i,"correct"),countAPack(i,"mistake"),countAPack(i,"correct")/countAPack(i,"meet")*100+"%")
+        html+=String.format(trt,"总计",
+                countAPack(i,"meet"),
+                countAPack(i,"correct"),
+                countAPack(i,"mistake"),
+                countAPack(i,"correct")/countAPack(i,"meet")*100+"%",
+                countAPack(i,"response")/countAPack(i,"correct")/1000+"秒")
         
 
         html+="</table>"
@@ -135,7 +145,7 @@
     function loadPack(){
         var html=tt;
         for(var i in pack){
-            html+=String.format(trt,i,countPack(i,"meet"),countPack(i,"correct"),countPack(i,"mistake"),countPack(i,"correct")/countPack(i,"meet")*100+"%")
+            html+=String.format(trt,i,countPack(i,"meet"),countPack(i,"correct"),countPack(i,"mistake"),countPack(i,"correct")/countPack(i,"meet")*100+"%",countPack(i,"response")/countPack(i,"correct")/1000+"秒")
         }
 
         html+="</table>"
@@ -145,7 +155,7 @@
     function loadProject(){
         var html=tt;
         for(var i in songs){
-            html+=String.format(trt,i,countProject(i,"meet"),countProject(i,"correct"),countProject(i,"mistake"),countProject(i,"correct")/countProject(i,"meet")*100+"%")
+            html+=String.format(trt,i,countProject(i,"meet"),countProject(i,"correct"),countProject(i,"mistake"),countProject(i,"correct")/countProject(i,"meet")*100+"%",countProject(i,"response")/countProject(i,"correct")/1000+"秒")
         }
 
         html+="</table>"
@@ -157,7 +167,7 @@
         for(var i in songs){
             for(var j in songs[i]){
                 var name=songs[i][j].name
-                html+=String.format(trt,"【"+i+"】"+name,lsg(name+"_meet"),lsg(name+"_correct"),lsg(name+"_mistake"),lsg(name+"_correct")/lsg(name+"_meet")*100+"%")
+                html+=String.format(trt,"【"+i+"】"+name,lsg(name+"_meet"),lsg(name+"_correct"),lsg(name+"_mistake"),lsg(name+"_correct")/lsg(name+"_meet")*100+"%",lsg(name+"_response")/lsg(name+"_correct")/1000+"秒")
             }
         }
 

@@ -183,6 +183,7 @@
         $('#play2btn')[0].disabled = true;
         $('#play3btn')[0].disabled = true;
         $('#skipbtn')[0].disabled = false;
+        tmp = null;
         genProb();
     }
 
@@ -196,6 +197,11 @@
                 sound.play(id);
                 $('#skipbtn')[0].disabled = true;
             }
+
+            if(tmp==null && id=="test"){
+                tmp=new Date().getTime()
+            }
+            
         } else {
             alert("加载中");
         }
@@ -204,6 +210,7 @@
     var selected = "N/A";
     var correct = 0;
     var total = 0;
+    var tmp = null;
 
     function Next() {
         sound.stop();
@@ -224,7 +231,7 @@
         }
 
         if($("#statIn")[0].checked){
-            addToStat(nowSong.name,selected);
+            addToStat(nowSong.name,selected,new Date().getTime()-tmp);
         }
 
         total++;
