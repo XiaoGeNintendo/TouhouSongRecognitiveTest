@@ -1,7 +1,9 @@
 <html>
 
 <head>
-    <title>Touhou Song Recognitive Test By XGN from HHS</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Touhou Song Recognitive Test by XGN from HHS</title>
     <script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
     <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
@@ -17,7 +19,7 @@
 <body>
     <div class="container">
         <h1>东方原曲认知大赛</h1>
-        <p><del>应该是移动端友好的吧</del></p>
+        <p><a href="https://github.com/XiaoGeNintendo/TouhouSongRecognitiveTest" target="_blank">GitHub</a></p>
         <hr>
         <div id="setting">
             <h2>设置</h2>
@@ -27,19 +29,19 @@
                     <span class="input-group-text">片段长度</span>
                 </div>
                 <input id="len" type="number" class="form-control" placeholder="Length in seconds" value="10">
+                <div class="input-group-append">
+                    <span class="input-group-text">秒</span>
+                </div>
             </div>
             <br>
             <div id="fran">加载中</div>
             <br>
             <div class="card">
-                <div class="card-header" style="padding:3px;">
-                    <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse"
-                        data-target="#origin-details">
-                        来源详细信息
-                    </button>
+                <div class="card-header">
+                    <span>来源详细信息</span>
                 </div>
-                <div id="origin-details" class="collapse show">
-                    <div class="card-body clearfix" id="fill">
+                <div id="origin-details">
+                    <div class="card-body clearfix" style="padding: 5px;" id="fill">
                         加载中
                     </div>
                 </div>
@@ -49,10 +51,14 @@
         </div>
 
         <div id="game">
-            <h1>游戏</h1>
-            正确率: <i id="cpre">100%(0/0)</i> <br />
-            已选择：<i id="selected">N/A</i> <br />
-            正确答案：<i id="real">????</i> <br />
+            <h2>游戏</h2>
+            <span>正确率: <i id="cpre">100%(0/0)</i></span>
+            <br>
+            <span>已选择：<i id="selected">N/A</i></span>
+            <br>
+            <span>正确答案：<i id="real">????</i></span>
+            <br>
+            <br>
             <button onclick="Play('test')" class="btn btn-primary" disabled="true" id="playbtn">
                 播放片段
             </button>
@@ -72,11 +78,11 @@
                 从测试点前5秒开始播放
             </button>
 
-            <br />
+            <br><br>
 
-            <table border="1">
+            <table class="table table-bordered">
                 <tr>
-                    <td>
+                    <td style="width:60%;">
                         <div id="GS"></div>
                     </td>
                     <td>
@@ -98,12 +104,7 @@
 
     html = '<button onClick="loadAll()" class="btn btn-primary">全部</button>';
     for (var i in pack) {
-        html +=
-            '<button onClick="loadPack(\'' +
-            i +
-            '\')" class="btn btn-primary">' +
-            i +
-            '</button>';
+        html += '<button onClick="loadPack(\'' + i + '\')" class="btn btn-primary">' + i + '</button>';
     }
     html += '<button onclick="clearAll()" class="btn btn-danger">清空选择</button>'
     document.getElementById("fran").innerHTML = html;
@@ -139,12 +140,7 @@
                 for (var j in songs[i]) {
                     avSong.push(songs[i][j]);
                 }
-                file +=
-                    '<i class="fa fa-folder btn btn-dark" onclick="unfold(\'' +
-                    i +
-                    "')\">" +
-                    i +
-                    "</i><br/><br/>";
+                file += '<i class="fa fa-folder btn btn-dark" onclick="unfold(\'' + i + "')\">" + i + "</i>";
             }
         }
         document.getElementById("GS").innerHTML = file;
@@ -177,8 +173,17 @@
         if (ready) {
             if (sound.playing()) {
                 sound.stop();
-            } else {
+                if (id != 'test') {
+                    sound.play(id);
+                    document.getElementById("playbtn").innerHTML = "停止片段";
+                }
+                else {
+                    document.getElementById("playbtn").innerHTML = "播放片段";
+                }
+            }
+            else {
                 sound.play(id);
+                document.getElementById("playbtn").innerHTML = "停止片段";
             }
         } else {
             alert("加载中");
@@ -191,12 +196,13 @@
 
     function Next() {
         sound.stop();
+        document.getElementById("playbtn").innerHTML = "播放片段";
         newProb();
     }
 
     function Confirm() {
         document.getElementById("real").innerHTML =
-            nowSong.name + " 来自 " + nowSong.cate + " 从 " + start + "秒";
+            '<b>' + nowSong.name + '</b> 来自 <b>' + nowSong.cate + "</b> 从 " + start + "秒开始";
         document.getElementById("confirmbtn").disabled = true;
         document.getElementById("nextbtn").disabled = false;
         document.getElementById("linkbtn").disabled = false;
@@ -215,12 +221,7 @@
         var file = "";
 
         for (var i in songs[proj]) {
-            file +=
-                '<i class="fa fa-music btn btn-success" onclick="select(\'' +
-                songs[proj][i].name +
-                "')\">" +
-                songs[proj][i].name +
-                "</i><br/>";
+            file += '<i class="fa fa-music btn btn-success" onclick="select(\'' + songs[proj][i].name + '\')">' + songs[proj][i].name + '</i><br/>';
         }
 
         document.getElementById("FS").innerHTML = file;
