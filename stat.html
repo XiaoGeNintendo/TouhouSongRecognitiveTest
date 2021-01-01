@@ -167,8 +167,8 @@
 
     function countAPack(_,token){
         var count=0;
-        for(var i in pack){
-            count+=countPack(i,token);
+        for(var i in songs){
+            count+=countProject(i,token);
         }
         return count;
     }
