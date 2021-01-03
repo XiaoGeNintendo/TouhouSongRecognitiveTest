@@ -289,7 +289,7 @@ Fall of Fall　～ 秋意渐浓之瀑!!!东方风神录!!!https://upload.thwiki.
 Native Faith!!!东方风神录!!!https://upload.thwiki.cc/e/ec/th10_15.mp3
 山脚的神社!!!东方风神录!!!https://upload.thwiki.cc/0/02/th10_16.mp3
 神明降下恩惠之雨　～ Sylphid Dream!!!东方风神录!!!https://upload.thwiki.cc/5/5f/th10_17.mp3
-Player's Score!!!东方风神录!!!https://upload.thwiki.cc/5/59/th10_18.mp3
+Player’s Score!!!东方风神录!!!https://upload.thwiki.cc/5/59/th10_18.mp3
 酒鬼的雷姆利亚!!!黄昏酒场!!!https://upload.thwiki.cc/b/b5/UB_06.mp3
 Theme of Eastern Story!!!幺乐团的历史!!!https://upload.thwiki.cc/6/62/ha05_15.mp3
 桑尼米尔克的红雾异变!!!东方三月精S1!!!https://upload.thwiki.cc/2/28/SaBND01_01.mp3
@@ -559,4 +559,21 @@ Electric Heritage!!!东方鬼形兽!!!https://upload.thwiki.cc/7/7f/th17_12.mp3
 从地下的归还!!!东方鬼形兽!!!https://upload.thwiki.cc/f/fd/th17_17.mp3
 独一无二的投影!!!INDIE Live Expo!!!https://upload.thwiki.cc/2/27/ILE_title.mp3
 未知之花 魅知之旅!!!未知之花 魅知之旅!!!https://upload.thwiki.cc/7/7b/hr06_01.mp3
+幻想乡最漫长的一日!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/8/80/thHSoB_01.ogg
+沉默的春景!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/e/e7/thHSoB_02.ogg
+Scarlet Ranran!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/f/fb/thHSoB_03.ogg
+末法之夜降临!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/8/84/thHSoB_04.ogg
+欢迎前往小幺的墓地！!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/9/99/thHSoB_05.ogg
+Lotus Maze!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/0/08/thHSoB_06.ogg
+清高的翠之灰姑娘!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/c/cd/thHSoB_07.ogg
+苦短之森!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/b/bc/thHSoB_08.ogg
+飞翔八十亿劫 ~ Sinful Rampage!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/8/87/thHSoB_09.ogg
+Far-East El Dorado!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/8/89/thHSoB_10.ogg
+烈日的暴君 ~ Violent General!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/a/a7/thHSoB_11.ogg
+我乃将远方之人带回者!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/a/a2/thHSoB_12.ogg
+黄金赞歌 ~ Ibis Trismegistus!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/4/49/thHSoB_13.ogg
+幻想乡最短暂的一夜!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/1/13/thHSoB_16.ogg
+响彻朝霞的鸟之歌!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/3/36/thHSoB_17.ogg
+Player’s Score（真珠岛）!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/4/4c/thHSoB_18.ogg
+Desert Wind!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/d/d4/thHSoB_19.ogg
 `
