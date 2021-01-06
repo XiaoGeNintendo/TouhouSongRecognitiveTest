@@ -11,7 +11,8 @@
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="index.css">
-    <script src="source.js"></script>
+    <script src="sourceTHB.js"></script>
+    <script src="source163.js"></script>
     <script src="pack.js"></script>
     <script src="game.js"></script>
 </head>
@@ -27,7 +28,11 @@
 
         <div id="settings">
             <h2>设置</h2>
-            <br>
+            <br/>
+            <button onclick="to('thb')" class="btn btn-secondary">使用Thwiki源（✔中文、不包含重复歌曲、ZUN曲全收录 ❌不稳定、同人曲少）</button>
+            <button onclick="to('163')" class="btn btn-secondary">使用网易云音乐源（✔稳定、同人曲多 ❌日文、包含重复歌曲、缺少无专辑ZUN曲）</button>
+            <br/>
+
             <div class="input-group" style="max-width: 300px;">
                 <div class="input-group-prepend">
                     <span class="input-group-text">片段长度</span>
@@ -106,6 +111,17 @@
 </body>
 </div>
 <script>
+
+    function to(source){
+        if(source=='163'){
+            lss("source",SOURCE_163);
+        }else{
+            lss("source",SOURCE_THB);
+        }
+        alert("设置成功。请刷新！");
+    }
+
+    
     loadSong();
 
     var html = "";

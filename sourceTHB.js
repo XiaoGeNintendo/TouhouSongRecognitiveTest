@@ -1,4 +1,4 @@
-var source=`
+var sourceTHB=`
 A Sacred Lot!!!东方灵异传!!!https://upload.thwiki.cc/0/0b/A_Sacret_Lot_0.mp3
 永远之巫女!!!东方灵异传!!!https://upload.thwiki.cc/6/62/%E6%B0%B8%E9%81%A0%E3%81%AE%E5%B7%AB%E5%A5%B3.mp3
 The Positive and Negative!!!东方灵异传!!!https://upload.thwiki.cc/a/ac/%E9%99%B0%E9%99%BD_~_The_Positive_and_Negative.mp3

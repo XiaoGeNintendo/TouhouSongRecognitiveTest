@@ -1,8 +1,18 @@
+var source='';
+const SOURCE_163=163;
+const SOURCE_THB=0;
+
 var songs = {
 
 };
 
 function loadSong() {
+    if(lsg("source")==SOURCE_THB){
+        source=sourceTHB;
+    }else if(lsg("source")==SOURCE_163){
+        source=source163;
+    }
+
     var lines = source.trim().split("\n");
     for (var i = 0; i < lines.length; i++) {
         var part = lines[i].split("!!!");
@@ -35,11 +45,22 @@ function genProb() {
     id = Math.floor(Math.random() * avSong.length);
     nowSong = avSong[id];
     avSong.splice(id, 1);
-    sound = new Howl({
-        src: [nowSong.link],
-        html5: true,
-        preload: "metadata"
-    });
+
+    if(lsg("source")==SOURCE_163){
+        sound = new Howl({
+            src: [nowSong.link],
+            html5: true,
+            preload: "metadata",
+            format: ["mp3"]
+        });
+    }else{
+        sound = new Howl({
+            src: [nowSong.link],
+            html5: true,
+            preload: "metadata"
+        });
+    }
+    
 
     sound.once('end', function () {
         $('#playbtn').text("播放片段");
