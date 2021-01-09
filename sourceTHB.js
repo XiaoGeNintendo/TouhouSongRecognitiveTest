@@ -16,7 +16,7 @@ The Legend of KAGE!!!东方灵异传!!!https://upload.thwiki.cc/b/bd/The_Legend_
 风之神社!!!东方灵异传!!!https://upload.thwiki.cc/9/95/%E9%A2%A8%E3%81%AE%E7%A5%9E%E7%A4%BE.mp3
 东方封魔录　～净土曼荼罗!!!东方封魔录!!!https://upload.thwiki.cc/0/0b/th02_01_FM.ogg
 博丽　～Eastern Wind!!!东方封魔录!!!https://upload.thwiki.cc/2/27/th02_02_FM.ogg
-She's in a temper！！!!!东方封魔录!!!https://upload.thwiki.cc/a/a0/th02_07_FM.ogg
+She’s in a temper！！!!!东方封魔录!!!https://upload.thwiki.cc/a/a0/th02_07_FM.ogg
 End of Daylight!!!东方封魔录!!!https://upload.thwiki.cc/b/b8/th02_03_FM.ogg
 黑暗的力量!!!东方封魔录!!!https://upload.thwiki.cc/3/3c/th02_08_FM.ogg
 幻梦界!!!东方封魔录!!!https://upload.thwiki.cc/7/76/th02_04_FM.ogg
@@ -59,7 +59,7 @@ Phantasmagoria!!!东方梦时空!!!https://upload.thwiki.cc/a/a0/th05_Y_24.ogg
 「ZUN Soft」表示音!!!东方幻想乡!!!https://upload.thwiki.cc/6/68/%E3%80%8CZUN_Soft%E3%80%8D%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%81%A7%E6%B5%81%E3%82%8C%E3%82%8B%E9%9F%B3%E6%A5%BD.mp3
 幻想乡　～ Lotus Land Story!!!东方幻想乡!!!https://upload.thwiki.cc/4/42/th04_01_26.ogg
 Witching Dream!!!东方幻想乡!!!https://upload.thwiki.cc/1/13/th04_02_26.ogg
-Selene's light!!!东方幻想乡!!!https://upload.thwiki.cc/8/89/th04_03_26.ogg
+Selene’s light!!!东方幻想乡!!!https://upload.thwiki.cc/8/89/th04_03_26.ogg
 装饰战　～ Decoration Battle!!!东方幻想乡!!!https://upload.thwiki.cc/7/72/th04_04_26.ogg
 Break the Sabbath!!!东方幻想乡!!!https://upload.thwiki.cc/a/a0/th04_05_26.ogg
 红响曲　～ Scarlet Phoneme!!!东方幻想乡!!!https://upload.thwiki.cc/7/78/th04_06_26.ogg
@@ -98,7 +98,7 @@ Maple Wise!!!东方怪绮谈!!!https://upload.thwiki.cc/f/f1/th05_08_26.ogg
 背叛的少女　～ Judas Kiss!!!东方怪绮谈!!!https://upload.thwiki.cc/f/f7/th05_11_26.ogg
 the Last Judgement!!!东方怪绮谈!!!https://upload.thwiki.cc/d/d9/th05_12_26.ogg
 可悲的人偶　～ Doll of Misery!!!东方怪绮谈!!!https://upload.thwiki.cc/3/3f/th05_13_26.ogg
-世界的尽头　～ World's End!!!东方怪绮谈!!!https://upload.thwiki.cc/0/09/th05_14_26.ogg
+世界的尽头　～ World’s End!!!东方怪绮谈!!!https://upload.thwiki.cc/0/09/th05_14_26.ogg
 神话幻想　～ Infinite Being!!!东方怪绮谈!!!https://upload.thwiki.cc/5/59/th05_15_26.ogg
 不可思议之国的爱丽丝!!!东方怪绮谈!!!https://upload.thwiki.cc/4/45/th05_16_26.ogg
 the Grimoire of Alice!!!东方怪绮谈!!!https://upload.thwiki.cc/d/d0/th05_17_26.ogg
@@ -123,8 +123,8 @@ Disastrous Gemini!!!秋霜玉!!!https://upload.thwiki.cc/b/b7/sh01p_04.mp3
 魔法少女十字军!!!秋霜玉!!!https://upload.thwiki.cc/4/47/SE01_11.mp3
 Antique Terror!!!秋霜玉!!!https://upload.thwiki.cc/5/54/SE01_12.mp3
 梦机械　～ Innocent Power!!!秋霜玉!!!https://upload.thwiki.cc/a/a5/SE01_13.mp3
-幻想科学　～ Doll's Phantom!!!秋霜玉!!!https://upload.thwiki.cc/1/1f/SE01_14.mp3
-少女神性　～ Pandora's Box!!!秋霜玉!!!https://upload.thwiki.cc/e/ee/SE01_15.mp3
+幻想科学　～ Doll’s Phantom!!!秋霜玉!!!https://upload.thwiki.cc/1/1f/SE01_14.mp3
+少女神性　～ Pandora’s Box!!!秋霜玉!!!https://upload.thwiki.cc/e/ee/SE01_15.mp3
 Silk Road Alice!!!秋霜玉!!!https://upload.thwiki.cc/d/d9/SE01_16.mp3
 魔女们的舞会　～ Magus!!!秋霜玉!!!https://upload.thwiki.cc/f/fc/SE01_17.mp3
 二色莲花蝶　～ Ancients!!!秋霜玉!!!https://upload.thwiki.cc/3/31/SE01_18.mp3

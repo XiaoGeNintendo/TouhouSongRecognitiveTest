@@ -30,7 +30,14 @@
             <h2>设置</h2>
             <br/>
             <button onclick="to('thb')" class="btn btn-secondary">使用Thwiki源（✔中文、不包含重复歌曲、ZUN曲全收录 ❌不稳定、同人曲少）</button>
-            <button onclick="to('163')" class="btn btn-secondary">使用网易云音乐源（✔稳定、同人曲多 ❌日文、包含重复歌曲、缺少无专辑ZUN曲）</button>
+            <button onclick="to('163')" class="btn btn-secondary">使用网易云音乐源（✔稳定、同人曲多 ❌翻译杂乱、包含重复歌曲、缺少无专辑ZUN曲）</button> <br/>
+            <code>请注意：网易云模式仍在测试中，包含大量重复曲目，建议只选择弹幕正作、同人作品或作为备选选项。 <br/>
+                同时部分快捷选择将不可用<br/>
+                部分歌曲的翻译不一定准确（用⚠标出），请以日文曲名为准。 <br/>
+                详情请见程序https://gist.github.com/XiaoGeNintendo/2620e38f7d404e18323e5e7c5be9e7ef <br/>
+                欢迎点击上方Github链接更新发送pull request更新翻译和同人曲
+            </code>
+            <hr/>
             <br/>
 
             <div class="input-group" style="max-width: 300px;">
@@ -132,8 +139,11 @@
 
     html = '<button onClick="loadAll()" class="btn btn-primary">全部</button>';
     for (var i in pack) {
-        html += '<button onClick="loadPack(\'' + i + '\')" class="btn btn-primary">' + i + '</button>';
+        if(i.endsWith("（网易云）") == (lsg("source")==SOURCE_163)){
+            html += '<button onClick="loadPack(\'' + i + '\')" class="btn btn-primary">' + i + '</button>';
+        }
     }
+
     html += '<button onclick="clearAll()" class="btn btn-danger">清空选择</button>'
     $("#fran").html(html);
 
