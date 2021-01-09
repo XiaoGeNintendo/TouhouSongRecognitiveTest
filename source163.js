@@ -1,5 +1,5 @@
 var source163=`
-Title⚠(JP:Title)!!!東方剛欲異聞~水没した沈愁地獄!!!https://v1.hitokoto.cn/nm/redirect/music/1424233731
+Title!!!東方剛欲異聞~水没した沈愁地獄!!!https://v1.hitokoto.cn/nm/redirect/music/1424233731
 魔法使的忧郁!!!東方剛欲異聞~水没した沈愁地獄!!!https://v1.hitokoto.cn/nm/redirect/music/1424231977
 恋色Magic⚠(JP:恋色マスタースパーク)!!!東方剛欲異聞~水没した沈愁地獄!!!https://v1.hitokoto.cn/nm/redirect/music/1424233777
 昏暗的风穴!!!東方剛欲異聞~水没した沈愁地獄!!!https://v1.hitokoto.cn/nm/redirect/music/1424231928
@@ -67,12 +67,12 @@ Mushroom·Waltz!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529
 永远延续的回廊!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391938
 Sleep Sheep·Parade!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391939
 到达有顶天!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391940
-凭坐处于梦与现实之间　～ Necro-Fantasia⚠(JP:憑座は夢と現の間に ~ Necro-Fantasia)!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391941
+凭坐处于梦与现实之间　～ Necro-Fantasia!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391941
 今宵是飘逸的自我主义者(Live ver)　～ Egoistic Flowers.!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391942
 灵异任你选⚠(JP:オカルトアトラクト)!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391943
 竹林大火⚠(JP:ネオ竹林インフレイム)!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391944
 对跖点之钟⚠(JP:億万劫の鐘)!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391945
-幻视之夜　～ Ghostly Eyes⚠(JP:アンノウンX ~ Occultly Madness)!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391946
+JP:アンノウンX ~ Occultly Madness!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391946
 凭投依合!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391947
 连带责人!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391948
 合缘奇缘!!!東方憑依華!!!https://v1.hitokoto.cn/nm/redirect/music/529391949
@@ -139,8 +139,8 @@ Dr. Latency的令人不眠之瞳!!!燕石博物誌!!!https://v1.hitokoto.cn/nm/r
 Pure Furies　～ 心之所在!!!燕石博物誌!!!https://v1.hitokoto.cn/nm/redirect/music/412785477
 永远的三日天下!!!燕石博物誌!!!https://v1.hitokoto.cn/nm/redirect/music/412785478
 死灵的夜樱⚠(JP:繚乱ノ罪桜)!!!東方外來韋編!!!https://v1.hitokoto.cn/nm/redirect/music/512489129
-魔镜⚠(JP:絶縁体)!!!東方外來韋編!!!https://v1.hitokoto.cn/nm/redirect/music/512489130
-AN ORDEAL FROM GOD⚠(JP:PLAIN ASIA (2015 ALR REWIND REMIX))!!!東方外來韋編!!!https://v1.hitokoto.cn/nm/redirect/music/512489131
+絶縁体!!!東方外來韋編!!!https://v1.hitokoto.cn/nm/redirect/music/512489130
+PLAIN ASIA (2015 ALR REWIND REMIX)!!!東方外來韋編!!!https://v1.hitokoto.cn/nm/redirect/music/512489131
 宇宙巫女现身!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/33991740
 忘不了，那曾依藉的绿意!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/33991780
 兔已着陆!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/33991784
@@ -150,7 +150,7 @@ AN ORDEAL FROM GOD⚠(JP:PLAIN ASIA (2015 ALR REWIND REMIX))!!!東方外來韋�
 永远的春梦!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/33991810
 冻结的永远之都!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/33991811
 逆转的命运之轮!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/33991812
-遥遥38万公里的航程⚠(JP:遥か38万キロのボヤージュ)!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/34003788
+遥遥38万公里的航程!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/34003788
 星条旗的小丑!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/34003789
 故乡之星倒映之海!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/34003790
 Pure Furies　～ 心之所在!!!東方紺珠伝!!!https://v1.hitokoto.cn/nm/redirect/music/34003791
@@ -194,10 +194,10 @@ Heartfelt Fancy!!!伊弉諾物質!!!https://v1.hitokoto.cn/nm/redirect/music/227
 后院的妖怪参拜道⚠(JP:妖怪里参道)!!!伊弉諾物質!!!https://v1.hitokoto.cn/nm/redirect/music/22765900
 未知物Ｘ　～ Unfound Adventure⚠(JP:アンノウンX　~ Unfound Adventure)!!!伊弉諾物質!!!https://v1.hitokoto.cn/nm/redirect/music/22765902
 收集日本各地的不可思议!!!伊弉諾物質!!!https://v1.hitokoto.cn/nm/redirect/music/22765898
-在美妙的墓地里住下吧⚠(JP:素敌な墓场で暮しましょ)!!!伊弉諾物質!!!https://v1.hitokoto.cn/nm/redirect/music/22765904
+在美妙的墓地里住下吧!!!伊弉諾物質!!!https://v1.hitokoto.cn/nm/redirect/music/22765904
 卫星鸟船!!!鳥船遺跡!!!https://v1.hitokoto.cn/nm/redirect/music/508946
 特洛伊群的密林!!!鳥船遺跡!!!https://v1.hitokoto.cn/nm/redirect/music/508950
-Desire Drive⚠(JP:デザイアトライブ)!!!鳥船遺跡!!!https://v1.hitokoto.cn/nm/redirect/music/508954
+Desire Drive!!!鳥船遺跡!!!https://v1.hitokoto.cn/nm/redirect/music/508954
 妖精冒险谭!!!鳥船遺跡!!!https://v1.hitokoto.cn/nm/redirect/music/508958
 天鸟船神社!!!鳥船遺跡!!!https://v1.hitokoto.cn/nm/redirect/music/508962
 夜空中的UFO恋曲!!!鳥船遺跡!!!https://v1.hitokoto.cn/nm/redirect/music/508966
@@ -226,22 +226,9 @@ Desire Drive!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509022
 神社的新风!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509056
 Desire Dream!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509059
 Player’s Score!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/29984368
-死灵的夜樱⚠(JP:死霊の夜桜 (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509062
-Ghost Lead⚠(JP:ゴーストリード (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509066
-欢迎来到妖怪寺⚠(JP:妖怪寺へようこそ (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509070
-门前的妖怪小姑娘⚠(JP:門前の妖怪小娘 (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509074
-在美妙的墓地里住下吧⚠(JP:素敵な墓場で暮しましょ (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509077
-Rigid Paradise⚠(JP:リジッドパラダイス (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509080
-Desire Drive⚠(JP:デザイアドライブ(霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509083
-古老的元神⚠(JP:古きユアンシェン (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509087
-梦殿大祀庙⚠(JP:夢殿大祀廟 (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509091
-大神神话传⚠(JP:大神神話伝 (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509095
-小小欲望的星空⚠(JP:小さな欲望の星空 (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509099
-后院的妖怪参拜道⚠(JP:妖怪裏参道 (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509102
-佐渡的二岩⚠(JP:佐渡の二ッ岩 (霊界トランス))!!!東方神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/509105
-未知之花 魅知之旅!!!未知の花!!!https://v1.hitokoto.cn/nm/redirect/music/509118
-无间之钟　～ Infinite Nightmare⚠(JP:无间の钟　~ Infinite Nightmare)!!!未知の花!!!https://v1.hitokoto.cn/nm/redirect/music/509120
-明日之盛，昨日之俗!!!未知の花!!!https://v1.hitokoto.cn/nm/redirect/music/509122
+未知之花 魅知之旅!!!未知之花 魅知之旅!!!https://v1.hitokoto.cn/nm/redirect/music/509118
+无间之钟　～ Infinite Nightmare!!!未知之花 魅知之旅!!!https://v1.hitokoto.cn/nm/redirect/music/509120
+明日之盛，昨日之俗!!!未知之花 魅知之旅!!!https://v1.hitokoto.cn/nm/redirect/music/509122
 时刻旺盛的好奇心!!!東方三月精!!!https://v1.hitokoto.cn/nm/redirect/music/29710937
 午夜的妖精舞会!!!東方三月精!!!https://v1.hitokoto.cn/nm/redirect/music/29710938
 妖精大战争　～ Fairy Wars!!!東方三月精!!!https://v1.hitokoto.cn/nm/redirect/music/29710939
@@ -283,10 +270,10 @@ Captain Murasa!!!東方星蓮船!!!https://v1.hitokoto.cn/nm/redirect/music/2263
 平安时代的外星人!!!東方星蓮船!!!https://v1.hitokoto.cn/nm/redirect/music/22636620
 妖怪寺!!!東方星蓮船!!!https://v1.hitokoto.cn/nm/redirect/music/22636616
 空中的归路　～　Sky Dream!!!東方星蓮船!!!https://v1.hitokoto.cn/nm/redirect/music/22636618
-Plastic Space⚠(JP:Player’s Score)!!!東方星蓮船!!!https://v1.hitokoto.cn/nm/redirect/music/22636614
+Player’s Score!!!東方星蓮船!!!https://v1.hitokoto.cn/nm/redirect/music/22636614
 魔法使的忧郁!!!The Grimoire of Marisa!!!https://v1.hitokoto.cn/nm/redirect/music/29710961
 斯普特尼克幻夜!!!The Grimoire of Marisa!!!https://v1.hitokoto.cn/nm/redirect/music/29710962
-可爱的大战争叠奏曲⚠(JP:可爱い大戦争のリフレーン)!!!東方三月精!!!https://v1.hitokoto.cn/nm/redirect/music/509276
+可爱的大战争叠奏曲!!!東方三月精!!!https://v1.hitokoto.cn/nm/redirect/music/509276
 Sunny Rutile Flection!!!東方三月精!!!https://v1.hitokoto.cn/nm/redirect/music/509279
 因夜失眠!!!東方三月精!!!https://v1.hitokoto.cn/nm/redirect/music/509282
 妖精灿烂的样子⚠(JP:妖精灿々として)!!!東方三月精!!!https://v1.hitokoto.cn/nm/redirect/music/509287
@@ -300,7 +287,7 @@ Flowering Night!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/nm/redirect/mus
 甲论乙驳!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/nm/redirect/music/22765923
 布加勒斯特的人偶师!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/nm/redirect/music/22765909
 风光明媚!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/nm/redirect/music/22765918
-广有射怪鸟事　～ Till When?⚠(JP:広有射怪鳥事 ～ Till When？)!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/nm/redirect/music/22765906
+广有射怪鸟事　～ Till When?!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/nm/redirect/music/22765906
 散发着香气的树叶花!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/nm/redirect/music/22765936
 Locked Girl　～ 少女密室!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/nm/redirect/music/22765921
 飞舞的水飞沫!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/nm/redirect/music/22765928
@@ -335,7 +322,7 @@ Locked Girl　～ 少女密室!!!全人類ノ天楽録!!!https://v1.hitokoto.cn/
 Heartfelt Fancy!!!東方地霊殿!!!https://v1.hitokoto.cn/nm/redirect/music/22636623
 少女觉 ～ 3rd eye!!!東方地霊殿!!!https://v1.hitokoto.cn/nm/redirect/music/22636636
 废狱摇篮曲!!!東方地霊殿!!!https://v1.hitokoto.cn/nm/redirect/music/22636628
-尸体旅行　～ Be of good cheer!⚠(JP:死体旅行~ Be of good cheer！)!!!東方地霊殿!!!https://v1.hitokoto.cn/nm/redirect/music/22636631
+尸体旅行　～ Be of good cheer!!!!東方地霊殿!!!https://v1.hitokoto.cn/nm/redirect/music/22636631
 业火地幔!!!東方地霊殿!!!https://v1.hitokoto.cn/nm/redirect/music/22636626
 灵知的太阳信仰　～ Nuclear Fusion!!!東方地霊殿!!!https://v1.hitokoto.cn/nm/redirect/music/22636637
 Last Remote!!!東方地霊殿!!!https://v1.hitokoto.cn/nm/redirect/music/22636632

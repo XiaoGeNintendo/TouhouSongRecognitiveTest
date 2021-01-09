@@ -248,7 +248,7 @@
         $('#real').html('<b>' + nowSong.name + '</b> 来自 <b>' + nowSong.cate + "</b> 从 " + start + "秒开始");
         $('#confirmbtn')[0].disabled = true;
         $('#nextbtn')[0].disabled = false;
-        $('#linkbtn')[0].disabled = false;
+        $('#linkbtn')[0].disabled = lsg("source")==SOURCE_163;
         $('#play2btn')[0].disabled = false;
         $('#play3btn')[0].disabled = false;
         $('#skipbtn')[0].disabled = true;
