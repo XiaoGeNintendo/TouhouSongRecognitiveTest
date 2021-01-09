@@ -16,6 +16,9 @@ function loadSong() {
     var lines = source.trim().split("\n");
     for (var i = 0; i < lines.length; i++) {
         var part = lines[i].split("!!!");
+        if (part.length<=1){
+            continue;
+        }
         if (songs[part[1]] == undefined) {
             songs[part[1]] = [];
         }

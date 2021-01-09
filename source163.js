@@ -1,4 +1,353 @@
 var source163=`
+幻想一夜物語 ~ Asterhyshm Line!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623892
+フラワリングパッセージ!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623893
+妖花乱麻 ~ Warning Glory！!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623894
+夕焼けトンビを追って!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623895
+風雷の鳶加藤!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623896
+天下分け目の星結界!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623897
+レインティアケー!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623898
+輝く夜を侵す者!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623899
+九曜天照 ~ Sunlight Reburst!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623900
+進撃の相州喇叭!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623901
+イルネスイリュージョナー!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623902
+光と影の魔宝城!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623903
+言ノ葉ノ大魔法 ~ Starry Wisdom!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623904
+風な恨みそ花の春 ~ Eternal Wind!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623905
+アケローン彼岸旅行!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623906
+堕ちた英雄の剣 ~ Legend of Sanada!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623907
+琴の音と言の葉!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623908
+天下統一ヒストリー ~ New Age Dream!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623909
+プレイヤーズスコア!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623910
+
+夢は時空を超えて!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485902777
+選択!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485904309
+東方妖恋談!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485904320
+轮回 輪廻!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485904334
+Dim. Dream!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485902828
+Tabula rasa ～ 空白少女!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485902853
+狂気の王女!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485902871
+夢消失 ～ Lost Dream!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485902903
+夢幻遊戯 ～ Dream War!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485902922
+勝利デモ!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485905178
+魔法決戦！!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485904721
+非統一魔法世界論!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485903863
+Sailor of Time!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485905216
+魔法鐘愛!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485903880
+Strawberry Crisis！！!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485903913
+久遠の夢!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485903919
+東方の青い空!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485904780
+永遠の満月!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485905260
+Maple Dream...!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485903944
+ゲームオーバー!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485904797
+霊人の休日!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485904802
+時の風!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485904816
+スターボウドリーム!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485905286
+Phantasmagoria!!!(Jynx)現樂団の往古3 ～ 束方 繪夢時空～!!!https://v1.hitokoto.cn/nm/redirect/music/485903994
+激戦Arrange~Bad Apple！！!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458526099
+激戦Arrange~U.N.OWEN就是她吗？!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458525372
+激戦Arrange~恋色Master spark!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458525446
+激戦Arrange~少女绮想曲!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458524713
+激戦Arrange~Locked Girl～少女密室!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458526206
+激戦Arrange~秘境的人鱼!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458525525
+激戦Arrange~妖怪之山!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458524797
+激戦Arrange-U.N.Owen就是她吗？!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458525623
+激戦Arrange~人形裁判!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458525667
+激戦Arrange~少女觉～ 3rd eye!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458527891
+激戦Arrange~竹取飞翔!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458527948
+激戦！！スカーレット姉妹!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458560292
+G.T.X!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458551974
+G-UTSUHO 霊知の太陽信仰!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458552841
+魔理沙メドレー -METEOR RAIN!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458555018
+A-T.Tensi.On.PLeAse!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458555044
+E.V.I.L–BLOODY!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458560517
+EXT - YUKARI ／亡靈幻想曲!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458560667
+Locked Girl～少女密室!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458555257
+LUNA DIAL -Version X-SAKUYA-!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458555294
+Suwa Foughten Field!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458556304
+U.N.オーエンは彼女なのか？!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458563003
+Ultimate Truth!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458571380
+Unconscious Sisters!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458563483
+チルノのパーフェクトさんすう教室!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458566098
+ナイト・オブ・ナイツ!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458571084
+東方バカルテットメドレー -GXN.MIX-!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458569791
+六十年目の东方裁判!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458559067
+平安のエイリアン!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458569689
+人形裁判 -GXN EURO MIX!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458570586
+信仰は儚き人間の為に -SANA SLASH-!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458558382
+遠野幻想物語~FantasyGimmick!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458558633
+Native Faith!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458570385
+Necro fantasia!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458565486
+輝く針の小人族～GXN.MIX!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458572769
+恋色マスタースパーク ～POWER OF EXPLOSION!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458572984
+少女綺想曲～ Rise Up Against The Stronger!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458575198
+天空のグリニッジ -DiSoRdEr Of TiMe-!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458577136
+激戦Arrange~幽雅に咲かせ、墨染の桜!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458576457
+ハルトマンの妖怪少女 -M.R.M!!!(Jynx)东方EUROBEAT ~ 激戦Arrange!!!https://v1.hitokoto.cn/nm/redirect/music/458582617
+A Handful’s Collection of Phantasmal Tales!!!(Jynx)鏈縁Project 貪欲 ~ 免除とコンプライアンス!!!https://v1.hitokoto.cn/nm/redirect/music/458504777
+Fall once more - Duty calls!!!(Jynx)鏈縁Project 貪欲 ~ 免除とコンプライアンス!!!https://v1.hitokoto.cn/nm/redirect/music/458505069
+Midnight Waltz!!!(Jynx)鏈縁Project 貪欲 ~ 免除とコンプライアンス!!!https://v1.hitokoto.cn/nm/redirect/music/458503830
+Sunday Morning ~ Fammiliar Road!!!(Jynx)鏈縁Project 貪欲 ~ 免除とコンプライアンス!!!https://v1.hitokoto.cn/nm/redirect/music/458505726
+Glimpse of a Dark Art!!!(Jynx)鏈縁Project 貪欲 ~ 免除とコンプライアンス!!!https://v1.hitokoto.cn/nm/redirect/music/458505237
+Dirty Deeds ~ Reasonable Price!!!(Jynx)鏈縁Project 貪欲 ~ 免除とコンプライアンス!!!https://v1.hitokoto.cn/nm/redirect/music/458506426
+PPAP~东方风arrange!!!(Jynx)PPAP ~东方风ARRANGE!!!https://v1.hitokoto.cn/nm/redirect/music/458332142
+妖々梦~ Snow or Cherry Petal-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457440601
+无何有の郷-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457435758
+クリスタライズシルバー-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457437219
+远野幻想物语-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457439089
+ティアオイエツォン-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457435953
+ブクレシュティの人形师-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457438505
+人形裁判.-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457440663
+天空の花の都-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457439921
+幽霊楽団-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457440766
+东方妖々梦-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457436630
+広有射怪鸟事-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457442025
+アルティメットトゥルス-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457439821
+幽雅に咲かせ、墨染の桜-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457440822
+ボーダーオブライフ 生-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457439814
+妖々跋扈-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457441358
+少女幻葬-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457442157
+妖々跋扈~Who done it！-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457441342
+ネクロファンタジア-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457442132
+春风の梦-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457439881
+さくらさくら-Old style!!!(Jynx)幺乐団の新歴史!!!https://v1.hitokoto.cn/nm/redirect/music/457440723
+碎月~Melodic Taste!!!(Jynx)碎月~Melodic Taste!!!https://v1.hitokoto.cn/nm/redirect/music/457390658
+トリック・ノスタルジ （Cover 原曲:幻想郷 ~ Lotus Land Story/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457363831
+Witching Dream-トリック・ノスタルジー （Cover 原曲:Witching Dream/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457365203
+Selene’s light-トリック・ノスタルジー （Cover 原曲:Selene’s light/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457365218
+装飾戦 -トリック・ノスタルジー （Cover 原曲:装飾戦 ~ Decoration Battle/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457364826
+Break the Sabbath-トリック・ノスタルジー （Cover 原曲:Break the Sabbath/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457364471
+紅響曲 -トリック・ノスタルジー （Cover 原曲:紅響曲 ~ Scarlet Phoneme-/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457365590
+Bad Apple！！-トリック?ノスタルジー （Cover 原曲:Bad Apple！！/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457366730
+霊戦 -トリック?ノスタルジー （Cover 原曲:霊戦 /東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457366755
+アリスマエステラ-トリック?ノスタルジー （Cover 原曲:アリスマエステラ/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457366785
+少女綺想曲-トリック?ノスタルジー （Cover 原曲:少女綺想曲 ~ Capriccio/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457368373
+星の器-トリック?ノスタルジー （Cover 原曲:星の器 ~ Casket of Star/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457368404
+Lotus Love-トリック?ノスタルジー（Cover 原曲:Lotus Love/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457366892
+眠れる恐怖-トリック?ノスタルジー （Cover 原曲:眠れる恐怖 ~ Sleeping Terror/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457366877
+Dream Land-トリック?ノスタルジー（Cover 原曲:Dream Land/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457367730
+幽夢-トリック?ノスタルジー （Cover 原曲:幽夢 ~ Inanimate Dream/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457368604
+禁じざるをえない遊戯-トリック?ノスタルジー （Cover 原曲:禁じざるをえない遊戯/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457368571
+メイド幻想-トリック?ノスタルジー （Cover 原曲:メイド幻想 ~ Icemilk Magic/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457370152
+かわいい悪魔-トリック?ノスタルジー（Cover 原曲:かわいい悪魔/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457368758
+Days-トリック?ノスタルジー (Cover 原曲:Days/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457369348
+Peaceful-トリック?ノスタルジー（Cover 原曲:Peaceful/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457369388
+Arcadian Dream-トリック?ノスタルジー（Cover 原曲:Arcadian Dream/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457369113
+幻想の住人-トリック?ノスタルジー（Cover 原曲:幻想の住人/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457369174
+Lotus Road-トリック?ノスタルジー（Cover 原曲:Lotus Road/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457368792
+Dreamy pilot-トリック?ノスタルジー（Cover 原曲:Dreamy pilot/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457369489
+Incomplete Plot-トリック?ノスタルジー （Cover 原曲:Incomplete Plot/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457368862
+Border Land-トリック?ノスタルジー （Cover 原曲:Border Land/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457369311
+Magic Shop of Raspberry-トリック?ノスタルジー （Cover 原曲:Magic Shop of Raspberry/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457368956
+rescent Dream-トリック?ノスタルジー（Cover 原曲:Crescent Dream/東方幻想郷）!!!(Jynx)現樂団の往古2 ～ 束方懐幻想郷 ～!!!https://v1.hitokoto.cn/nm/redirect/music/457368892
+東方怪綺談 （Cover 原曲:怪綺談 ～ Mystic Square/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457221752
+Dream Express （Cover 原曲:Dream Express/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457225733
+魔法阵 （Cover 原曲:魔法陣 ～ Magic Square/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457228357
+梦想时空（Cover 原曲:夢想時空/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457221850
+霊天 （Cover 原曲:霊天 ～ Spiritual Heaven東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457221888
+Romantic Children （Cover 原曲:Romantic Children/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457228967
+プラスチックマインド  （Cover 原曲:プラスチックマインド/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457226947
+メイプルワイズ  （Cover 原曲:メイプルワイズ/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457228261
+禁断的魔法 （Cover 原曲:禁断の魔法 ～ Forbidden Magic/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457221994
+真紅の少女  （Cover 原曲:真紅の少女 ～ Crimson Dead！！/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457228367
+真红的少女  （Cover 原曲:裏切りの少女 ～ Judas Kiss/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457227003
+最后的审判 （Cover 原曲:the Last Judgment/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457223240
+悲哀的人偶  （Cover 原曲:悲しき人形 ～ Doll of Misery/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457228333
+世界的尽头  （Cover 原曲:世界の果て ～ World’s End/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457228294
+神话幻想 （Cover 原曲:神話幻想 ～ Infinite Being/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457226051
+不可思议国的爱丽丝  （Cover 原曲:不思議の国のアリス/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457223371
+the Grimoire of Alice  （Cover 原曲:the Grimoire of Alice/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457225323
+神社  （Cover 原曲:神社/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457223440
+Endless  （Cover 原曲:Endless/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457223669
+永恒的乐园 （Cover 原曲:久遠の楽園/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457223460
+Mystic Dream  （Cover 原曲:Mystic Dream/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457222779
+灵魂的休息所  （Cover 原曲:魂の休らむ所/東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457223498
+Peaceful Romancer  （Cover 原曲:Peaceful Romancer東方怪綺談）!!!(Jynx)現樂団の往古 ～ 束方 廻怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/457224358
+軍靴が響く幻聴!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565407464
+押っ開かれた火蓋 ~ Slow Starter!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412166
+いざ進まん人の道、妖の道!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565402789
+妖は患い俯く ~ Outbreak!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408418
+海峡は今日もただ凪ぐ!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412179
+濃霧呑む昼夢!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408423
+生える石垣、動く城!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412244
+鉄と油の理想郷!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565407542
+陽炎の城 ~ Phantom ROAD!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565407548
+天の頂 ~ Brilliant Pagoda!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412258
+影の頂 ~ Haze Castle!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565405643
+小鳥達の黒羽焚き!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409360
+進まねばならぬ道!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565405655
+花よ散れ ~ Consumed with JEALOUSY！!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409375
+ナイトメアシンドローム!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412286
+メイドインブラック ~ Double Snake!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408517
+韓紅に水は括る ~DYE~!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565402915
+エンペラーロード ~ So cute！!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409408
+スラグエージェント!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565402952
+青嵐 ~ Plastic Vortex!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412335
+アクト・ザ・フール ~ HAHAHA!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565402968
+レッツエンド号 ~ to run away！!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408567
+キリングスペリオル ~ Giant killing!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565402980
+酔狂の舞 ~ This drunkard！!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565407649
+プリズミックドライブ!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408584
+ネクロマスター!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408590
+幽霊うごく波と風 ~ not steady body!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408598
+死に至る絢爛 ~ Toxic gem!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565415036
+ヒーロー見参！！!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412406
+オーバーヒートダウン!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565407719
+見切り千両、目玉万両 ~ MONEY GAME!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408659
+開かれた瞳 ~ Mono EYE!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565407730
+SILVER!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409515
+ミクロコスモス ~ Homunculus nightmare!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412444
+ルームザヒストリー!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409539
+スーパーハニーワ ~ NEXT FORM！！!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408700
+月には届かぬ手 ~ Moon Child!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412471
+大天 ~ Spirit of nagara!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409626
+亡き月の王!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565407841
+常軌の外に飛ぶ羽 ~ Eleven-dimensional!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409646
+アナザーマインド!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412577
+エターナルパワー ~ BIG STAR!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565407871
+薙ぎ払われた繋がり!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565405982
+百の命と一つの縁 ~ Chimera soul!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412601
+決壊オーバーフロー!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409681
+MO-NA-D-2 ~ 記憶偽筆!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565412621
+ロストジャックポット!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565407921
+道を打つ刃金 ~ Cyclops Tech!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565408909
+永劫模倣演舞 ~ Spell Collector!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409753
+壊れかけの永劫舞踏機関!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565409761
+MO-NA-D-1 〜 記憶追蹤!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565415349
+天影戦記 ~ Playing soldiers!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565419016
+祭りの後の沈黙!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565418111
+三つの道、三つの未来 ~ Triple VISION!!!(Jynx)連縁 天影戦記 ～ Brilliant pagoda or haze castle!!!https://v1.hitokoto.cn/nm/redirect/music/565415359
+薄氷上の華 ~ Snowy country!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480877661
+爛れ過ぎた平穏 ~ be motivated!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480879172
+ムクロマンサー ~ 抜け殻の夢!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480878460
+くぐもる冷気、鎮もる霊気!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480879221
+ゲットレディー号 ~ to run around！!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480878513
+フォーリンゴースト!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480878529
+幽暗海峡ヨーソロー!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480879331
+それぞれの思惑と足跡!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480877846
+ただ空五倍子に、ただ一筋に!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480877860
+キープザヒストリー!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480877879
+ダブルキーパー ~ 魄い盧のつがひ鳥!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480878681
+夢に忘れた尊き蛍火!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480879456
+ムーンチャイルド ~ Homunculus Dream!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480879481
+アフターオール!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480877940
+縁から外れた名前!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480878781
+空を広くする喪失道!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480879551
+顕界オーバーホール!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480880039
+无現にて棲む者!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480879613
+徒爾に終わりし道すがら!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480878880
+蜉蝣の城 ~ Phantom VISION!!!(Jynx)鏈縁霊烈傳 ～ Reactivate majestical imperial!!!https://v1.hitokoto.cn/nm/redirect/music/480878900
+
+
+幻想郷の一番長い日!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123230
+沈黙の春景!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409122235
+スカーレットランラン!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123232
+末法の夜は来たれり!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409122240
+ちいちい墓場へご招待！!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409122236
+ロータスメイズ!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123234
+気高き翠の灰被姫!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123235
+メメントの森!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409122241
+飛翔八十億劫 〜 Sinful Rampage!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123242
+ファーイーストエルドラド!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123237
+烈日の暴君 ～ Violent General!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409122239
+我は遠方の者を連れ戻す者!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123233
+黄金讃歌 〜 アイビストリスメギストス!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123239
+幻想郷の一番短い夜!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409122237
+朝焼けに響く鳥の歌!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409122238
+千紫万紅の百鬼夜行!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123238
+グラスハートシュバリエ!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123236
+プレイヤーズスコア!!!(邪星章)神授ノ書!!!https://v1.hitokoto.cn/nm/redirect/music/1409123229
+ニュースレイヴン出撃！!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298779
+コティングリー天狗事件!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298780
+アステリズムダンジョン!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298781
+桃源航路 ~ Avalon Gate!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298782
+天地結ぶビーンストーク!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298783
+終焉と創造の天頂!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298784
+デスサイズパラダイス!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298785
+純真なる徒花 ~ Absolute Lily!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298786
+ニュースレイヴン反省会場!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298787
+天狗が帰ってバイバイバイ!!!(邪星章)トライフォーカサー!!!https://v1.hitokoto.cn/nm/redirect/music/512298788
+記憶の断片!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298826
+神々の見解!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298827
+少女秘封ブラフ!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298828
+波数高低 ~ Kayser Kaiser!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298829
+朝霧のスクリーン!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298830
+大尉の愛した数式!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298831
+日本中の不思記を集めて!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298832
+礫塵の追憶 ~ Vanishing Memories!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298833
+私達の見解!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298834
+世界中の不思議を集めて!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298835
+雨の鳥船神社!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298836
+前線の風を追い越して ~ Flow Scale!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298837
+緑の空のお姫様 ~ Sky Garden!!!(邪星章)東方白塵記!!!https://v1.hitokoto.cn/nm/redirect/music/512298838
+閉ざされた扉の向こうへ!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298847
+背水の楽園!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298848
+六花繚乱 ~ Sakurachill Blossom!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298849
+クリフォトの立て橋!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298850
+プリティーアプリコット!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298851
+エーテル霧氷海!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298852
+深淵のソウルイーター!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298853
+銀の鍵の門を超えて!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298854
+歴史から消えされた姫君!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298855
+深海に浮かぶ桃源宮!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298856
+ワールドヤマタイザー!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298857
+死霊の都ルルイエ!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298858
+幻想国家黎明 ~ Prayer Player!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298859
+兵どもが夢の跡!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298860
+海の千尋よさようなら ~  Shiokaze Dream!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298861
+深海星雲 ~ Nebura Stream!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298862
+星の源流、草薙の剣竜!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298863
+生命無キ涜神ノ亡都!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298864
+インヤンシーサーペント!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298865
+幻想国家黎明 ～ Prayer Player (ido Edition)!!!(邪星章)東方桃源宮!!!https://v1.hitokoto.cn/nm/redirect/music/512298866
+守矢の杜 ~ Eastern Beanstalk!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298889
+潮騒の小路!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298890
+流転する古代信仰!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298891
+夕焼けに弾を撒け!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298892
+栗鼠は電気鼠の夢を見るか?!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298893
+ネフィリムの呼び声!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298894
+月下の策謀 ~ Angelic Night!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298895
+タービュランスタービン!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298896
+天夢流星 ~ Royal Monster!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298897
+ミルキーブロードウェイ!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298898
+1110年目の飛梅伝説!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298899
+言霊の霊廟!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298900
+天満たす御霊 ~ Lightning Word!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298901
+幻光歳華 ~ Infinity Lightning!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298902
+ディーヴァズディバイス!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298903
+命を導く歌 〜 Prospect Mirai!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298904
+導命樹天満宮!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298905
+エコロジー黎明 ~ Grown Dream!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298906
+プレイヤーズスコア!!!(邪星章)東方導命樹!!!https://v1.hitokoto.cn/nm/redirect/music/512298907
+欲深き霊魂!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298909
+リジッドパラダイス (Rigid Paradise)!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298910
+デザイアドライブ (Desire Drive)!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298911
+マンターズテイル!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298912
+夢殿大祀廟!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298913
+三千八百億平米神話大系!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298914
+小さな欲望の星空!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298915
+暗天への灯火 ~ Heaven Desires!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298916
+妖怪表参道!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298917
+遠ざかってはきっと来る ~ Ana Loguma!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298918
+Ending!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298919
+デザイアドリーム (Desire Dream)!!!(邪星章)東方偽神霊廟!!!https://v1.hitokoto.cn/nm/redirect/music/512298920
+星の夢見 ~ Eastern Celesphere!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298959
+厄星の揺籠!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298960
+妖星に踊る羊精!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298961
+色褪せぬ紅の記憶!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298962
+フィリニオンの複活!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298963
+賢人のプラネタリズム!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298964
+エンシェントスターゲイザー!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298965
+邪星の宴 ~ Celestial Burst!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298966
+明朝を覆う明星!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298967
+印のある者は山へ!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298968
+燦々サン・ミシェル!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298969
+幻想ヴィア・ドロローサ!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298970
+人類救済計画 ~ The Greatest Salvation!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298971
+ご近所がロストワールド!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298972
+神話世界の生き証人 ~ The Lost Comer!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298973
+異教の神々!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298974
+明朝を照らす明星!!!(邪星章)東方邪星章!!!https://v1.hitokoto.cn/nm/redirect/music/512298975
+
 Title!!!東方剛欲異聞~水没した沈愁地獄!!!https://v1.hitokoto.cn/nm/redirect/music/1424233731
 魔法使的忧郁!!!東方剛欲異聞~水没した沈愁地獄!!!https://v1.hitokoto.cn/nm/redirect/music/1424231977
 恋色Magic⚠(JP:恋色マスタースパーク)!!!東方剛欲異聞~水没した沈愁地獄!!!https://v1.hitokoto.cn/nm/redirect/music/1424233777
