@@ -7,4 +7,8 @@
 # Hosting on Github Page
 [Play here](https://xiaogenintendo.github.io/TouhouSongRecognitiveTest/)
 
-**All music source comes from [thwiki.cc](https://thwiki.cc)**
+# Music Source
+[thwiki.cc](https://thwiki.cc)
+[Netease](https://music.163.com)
+
+Special Thanks to [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) and [teng-koa](https://github.com/a632079/teng-koa) for making this possible!
