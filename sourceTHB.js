@@ -559,6 +559,15 @@ Electric Heritage!!!东方鬼形兽!!!https://upload.thwiki.cc/7/7f/th17_12.mp3
 从地下的归还!!!东方鬼形兽!!!https://upload.thwiki.cc/f/fd/th17_17.mp3
 独一无二的投影!!!INDIE Live Expo!!!https://upload.thwiki.cc/2/27/ILE_title.mp3
 未知之花 魅知之旅!!!未知之花 魅知之旅!!!https://upload.thwiki.cc/7/7b/hr06_01.mp3
+
+架起虹桥的幻想乡!!!东方虹龙洞!!!https://upload.thwiki.cc/4/4a/th18_01.mp3
+妖异们的骤雨!!!东方虹龙洞!!!https://upload.thwiki.cc/d/d5/th18_02.mp3
+大吉猫咪!!!东方虹龙洞!!!https://upload.thwiki.cc/b/ba/th18_03.mp3
+深绿掩映的断崖!!!东方虹龙洞!!!https://upload.thwiki.cc/d/d8/th18_04.mp3
+Banditry Technology!!!东方虹龙洞!!!https://upload.thwiki.cc/a/a8/th18_05.mp3
+驹草盛开的万年积雪!!!东方虹龙洞!!!https://upload.thwiki.cc/c/c9/th18_06.mp3
+Smoking Dragon!!!东方虹龙洞!!!https://upload.thwiki.cc/4/4b/th18_07.mp3
+
 幻想乡最漫长的一日!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/8/80/thHSoB_01.ogg
 沉默的春景!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/e/e7/thHSoB_02.ogg
 Scarlet Ranran!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/f/fb/thHSoB_03.ogg
