@@ -567,6 +567,16 @@ Electric Heritage!!!东方鬼形兽!!!https://upload.thwiki.cc/7/7f/th17_12.mp3
 Banditry Technology!!!东方虹龙洞!!!https://upload.thwiki.cc/a/a8/th18_05.mp3
 驹草盛开的万年积雪!!!东方虹龙洞!!!https://upload.thwiki.cc/c/c9/th18_06.mp3
 Smoking Dragon!!!东方虹龙洞!!!https://upload.thwiki.cc/4/4b/th18_07.mp3
+日渐荒废的工业遗址!!!东方虹龙洞!!!https://upload.thwiki.cc/9/96/th18_08.mp3
+神代矿石!!!东方虹龙洞!!!https://upload.thwiki.cc/4/44/th18_09.mp3
+渴盼已久的逢魔之刻!!!东方虹龙洞!!!https://upload.thwiki.cc/f/f9/th18_10.mp3
+天魔之山漫天星!!!东方虹龙洞!!!https://upload.thwiki.cc/5/55/th18_11.mp3
+Lunar Rainbow!!!东方虹龙洞!!!https://upload.thwiki.cc/0/03/th18_12.mp3
+熙攘市场今何在　～ Immemorial Marketeers!!!东方虹龙洞!!!https://upload.thwiki.cc/b/bd/th18_13.mp3
+幻想地下大轨道网!!!东方虹龙洞!!!https://upload.thwiki.cc/d/d8/th18_14.mp3
+灭杀龙王的公主!!!东方虹龙洞!!!https://upload.thwiki.cc/8/88/th18_15.mp3
+风暴过后的星期日!!!东方虹龙洞!!!https://upload.thwiki.cc/d/da/th18_16.mp3
+虹色的世界!!!东方虹龙洞!!!https://upload.thwiki.cc/e/e9/th18_17.mp3
 
 幻想乡最漫长的一日!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/8/80/thHSoB_01.ogg
 沉默的春景!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/e/e7/thHSoB_02.ogg
