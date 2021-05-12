@@ -1,4 +1,22 @@
 var source163=`
+架起虹桥的幻想乡!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1834325744
+妖异们的骤雨!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1834324215
+大吉猫咪!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1834325747
+深绿掩映的断崖!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1834324213
+Banditry Technology!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1834325745
+驹草盛开的万年积雪!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1834324214
+Smoking Dragon!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1834325746
+日渐荒废的工业遗址!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843961276
+神代矿石!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843965684
+渴盼已久的逢魔之刻!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843965685
+天魔之山漫天星!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843965686
+Lunar Rainbow!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843965687
+熙攘市场今何在　～ Immemorial Marketeers!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843965688
+幻想地下大轨道网!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843965689
+灭杀龙王的公主!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843965690
+风暴过后的星期日!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843965691
+虹色的世界!!!東方虹龍洞!!!https://v1.hitokoto.cn/nm/redirect/music/1843965692
+
 幻想一夜物語 ~ Asterhyshm Line!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623892
 フラワリングパッセージ!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623893
 妖花乱麻 ~ Warning Glory！!!!(MSB)東方魔宝城 ～ Book of Star Mythology!!!https://v1.hitokoto.cn/nm/redirect/music/493623894
@@ -474,7 +492,7 @@ Pandemonic Planet!!!旧約酒場!!!https://v1.hitokoto.cn/nm/redirect/music/4252
 亡失的情感!!!旧約酒場!!!https://v1.hitokoto.cn/nm/redirect/music/425280136
 宿醉者的同床异梦!!!旧約酒場!!!https://v1.hitokoto.cn/nm/redirect/music/425280137
 灵异任你选!!!東方外來韋編!!!https://v1.hitokoto.cn/nm/redirect/music/431855133
-永夜的报应　～ Imperishable Night⚠(JP:永夜の報い ~ Pipes and Fiddle.)!!!東方外來韋編!!!https://v1.hitokoto.cn/nm/redirect/music/431853142
+永夜的报应　～ Pipes and Fiddle.!!!東方外來韋編!!!https://v1.hitokoto.cn/nm/redirect/music/431853142
 Last Occultism　～ 现世的秘术师!!!東方外來韋編!!!https://v1.hitokoto.cn/nm/redirect/music/431855134
 二人不值一提的博物志!!!燕石博物誌!!!https://v1.hitokoto.cn/nm/redirect/music/412785468
 冻结的永远之都!!!燕石博物誌!!!https://v1.hitokoto.cn/nm/redirect/music/412785469
@@ -914,7 +932,7 @@ Flowering Night!!!東方花映塚!!!https://v1.hitokoto.cn/nm/redirect/music/510
 狂气之瞳　～ Invisible Full Moon!!!東方花映塚!!!https://v1.hitokoto.cn/nm/redirect/music/510182
 活泼的纯情小姑娘⚠(JP:おてんば恋娘の冒険)!!!東方花映塚!!!https://v1.hitokoto.cn/nm/redirect/music/510185
 幽灵乐团　～ Phantom Ensemble!!!東方花映塚!!!https://v1.hitokoto.cn/nm/redirect/music/510188
-已经只能听见歌声了⚠(JP:もう歌しか聞こえない ～ Flower Mix)!!!東方花映塚!!!https://v1.hitokoto.cn/nm/redirect/music/510192
+已经只能听见歌声了 ~ Flower Mix!!!東方花映塚!!!https://v1.hitokoto.cn/nm/redirect/music/510192
 宇佐大人的白旗!!!東方花映塚!!!https://v1.hitokoto.cn/nm/redirect/music/510196
 風神少女 (Short Version)!!!東方花映塚!!!https://v1.hitokoto.cn/nm/redirect/music/510200
 剧毒身体　～ Forsaken Doll!!!東方花映塚!!!https://v1.hitokoto.cn/nm/redirect/music/510204
@@ -946,9 +964,9 @@ Crescent Dream⚠(JP:幽玄の槭樹 ～ Eternal Dream)!!!夢違科学世紀!!!h
 已经只能听见歌声了!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636681
 令人怀念的东方之血　～ Old World!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636677
 Plain Asia!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636690
-永夜的报应　～ Imperishable Night⚠(JP:永夜の報い ～ Imperishable Night.)!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636682
-Sacred Battle⚠(JP:少女綺想曲 ～ Dream Battle)!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636684
-恋色Magic⚠(JP:恋色マスタースパーク)!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636680
+永夜的报应　～ Imperishable Night!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636682
+少女绮想曲 ～ Dream Battle!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636684
+恋色Magic Spark!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636680
 灰姑娘的笼子　～ Kagome-Kagome!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636693
 狂气之瞳　～ Invisible Full Moon!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636685
 Voyage1969!!!東方永夜抄!!!https://v1.hitokoto.cn/nm/redirect/music/22636688
@@ -1080,7 +1098,7 @@ Locked Girl　～ 少女密室!!!東方紅魔郷!!!https://v1.hitokoto.cn/nm/red
 特佩斯的年幼末裔!!!東方紅魔郷!!!https://v1.hitokoto.cn/nm/redirect/music/22636728
 献给已逝公主的七重奏!!!東方紅魔郷!!!https://v1.hitokoto.cn/nm/redirect/music/22636723
 魔法少女们的百年祭!!!東方紅魔郷!!!https://v1.hitokoto.cn/nm/redirect/music/22636733
-U.N.OWEN就是她吗？⚠(JP:U.N.オーエンは彼女なのか?)!!!東方紅魔郷!!!https://v1.hitokoto.cn/nm/redirect/music/22636729
+U.N.OWEN就是她吗？!!!東方紅魔郷!!!https://v1.hitokoto.cn/nm/redirect/music/22636729
 比红色更虚无的永远!!!東方紅魔郷!!!https://v1.hitokoto.cn/nm/redirect/music/22636731
 红楼　～ Eastern Dream...!!!東方紅魔郷!!!https://v1.hitokoto.cn/nm/redirect/music/22636727
 怪绮谈　～ Mystic Square!!!東方怪綺談!!!https://v1.hitokoto.cn/nm/redirect/music/22636762
