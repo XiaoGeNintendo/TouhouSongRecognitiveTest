@@ -85,8 +85,10 @@
             <h2>游戏</h2>
             <span>正确率: <i id="cpre">100%(0/0)</i></span>
             <br/>
-            <span class="sconly">得分: <i id="score">0(avg. 0)</i></span> 
-            <br>
+            <div class="sconly">
+                <span>得分: <i id="score">0(avg. 0)</i></span> 
+                <br>
+            </div>
             <span>已选择：<i id="selected">N/A</i></span>
             <br>
             <span>正确答案：<i id="real">????</i></span>
@@ -209,11 +211,19 @@
     var last=0;
     var totplaytime=0;
 
+    function nwc(x) {
+        var parts = x.toString().split(".");
+        parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        return parts.join(".");
+    }
+
     function scoreCalc(){
         if(totplaytime<=5){
             return 100000;
         }
+
         return Math.max(Math.floor(100000/55*(60-totplaytime)),10000)
+        // return Math.max(Math.floor((Math.sin(Math.PI/2-(totplaytime-5)*Math.PI/55)+1)/2*100000),10000)
     }
 
     function SettingDone() {
@@ -339,13 +349,13 @@
             if(selected == nowSong.name){
                 var sc=scoreCalc();
                 totScore+=sc;
-                $('#score').html(`${totScore} (avg. ${Math.floor(totScore/total)}) <b>+${sc}</b>`)
+                $('#score').html(`${nwc(totScore)} (avg. ${Math.floor(totScore/total)}) <b>+${sc}</b>`)
 
                 if($("#statIn")[0].checked){
                     addToStat2(nowSong.name,sc);
                 }
             }else{
-                $('#score').html(`${totScore} (avg. ${Math.floor(totScore/total)}) <b>-_-</b>`)
+                $('#score').html(`${nwc(totScore)} (avg. ${Math.floor(totScore/total)}) <b>-_-</b>`)
                 
                 if($("#statIn")[0].checked){
                     addToStat2(nowSong.name,0);
