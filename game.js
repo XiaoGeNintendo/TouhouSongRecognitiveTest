@@ -69,7 +69,7 @@ function genProb() {
         $('#playbtn').text("播放片段");
     });
 
-    var testlen = parseFloat($('#len')[0].value);
+    var testlen = $('#scss')[0].checked ? 60 : parseFloat($('#len')[0].value);
 
     sound.once("load", function () {
         var len = sound.duration();
@@ -100,6 +100,7 @@ function lsg(pos){
 }
 
 function addToStat(real,sel,time){
+    console.log(`add to stat ${real} <> ${sel} t=${time}`)
     lsm(real+"_meet",1);
     if(sel==real){
         lsm(real+"_correct",1);
@@ -107,4 +108,10 @@ function addToStat(real,sel,time){
     }else{
         lsm(sel+"_mistake",1);
     }
+}
+
+function addToStat2(real, score){
+    console.log(`add to stat(sc) ${real} += ${score}`)
+    lsm(real+"_scmeet",1);
+    lsm(real+"_score",score);
 }

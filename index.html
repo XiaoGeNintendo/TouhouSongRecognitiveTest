@@ -41,15 +41,27 @@
             <hr/>
             <br/>
 
-            <div class="input-group" style="max-width: 300px;">
-                <div class="input-group-prepend">
-                    <span class="input-group-text">片段长度</span>
-                </div>
-                <input id="len" type="number" class="form-control" placeholder="Length in seconds" value="10">
-                <div class="input-group-append">
-                    <span class="input-group-text">秒</span>
+            <input onchange="changeMode()" type="checkbox" id="scss">使用打分模式
+
+            <!-- 正常模式-->
+            <div id="nmds">
+                正常模式：将会播放音乐片段，玩家选择，只有正确与不正确之分，目标正确率
+                <div class="input-group" style="max-width: 300px;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">片段长度</span>
+                    </div>
+                    <input id="len" type="number" class="form-control" placeholder="Length in seconds" value="10">
+                    <div class="input-group-append">
+                        <span class="input-group-text">秒</span>
+                    </div>
                 </div>
             </div>
+
+            <!-- 打分模式-->
+            <div id="csds">
+                打分模式：每首歌曲起步分100000，随着播放时间增加而减少，最高60秒，目标平均得点。如果答错得0分。
+            </div>
+
             <br>
             <div id="fran">加载中</div>
             <br>
@@ -72,11 +84,21 @@
         <div id="game">
             <h2>游戏</h2>
             <span>正确率: <i id="cpre">100%(0/0)</i></span>
+            <br/>
+            <span class="sconly">得分: <i id="score">0(avg. 0)</i></span> 
             <br>
             <span>已选择：<i id="selected">N/A</i></span>
             <br>
             <span>正确答案：<i id="real">????</i></span>
             <br>
+
+            <div class="sconly">
+                符卡得点：
+                <div class="progress">
+                    <div class="progress-bar progress-bar-striped progress-bar-animated" style="width:100%" id="pgbar">100000 0/60s</div>
+                </div>
+            </div>
+
             <br>
             <button onclick="Play('test')" class="btn btn-primary" disabled="true" id="playbtn">
                 播放片段
@@ -120,13 +142,24 @@
 </div>
 <script>
 
+    $('#csds').hide()
+    function changeMode(){
+        if($('#scss')[0].checked){
+            $('#nmds').hide()
+            $('#csds').show()
+        }else{
+            $('#nmds').show()
+            $('#csds').hide()
+        }
+    }
+
     function to(source){
         if(source=='163'){
             lss("source",SOURCE_163);
         }else{
             lss("source",SOURCE_THB);
         }
-        alert("设置成功。请刷新！");
+        location.reload();
     }
 
     
@@ -173,6 +206,16 @@
         newProb();
     }
 
+    var last=0;
+    var totplaytime=0;
+
+    function scoreCalc(){
+        if(totplaytime<=5){
+            return 100000;
+        }
+        return Math.max(Math.floor(100000/55*(60-totplaytime)),10000)
+    }
+
     function SettingDone() {
         $('#settings').hide();
         $('#game').show();
@@ -189,6 +232,31 @@
         }
         $('#GS').html(file)
         newProb();
+
+        if($('#scss')[0].checked){
+            //score attack mode
+            setInterval(function(){
+                if(sound.playing() && $('#confirmbtn')[0].disabled==false){
+                    var pos=sound.seek();
+                    if(pos-start-last>=0){
+                        totplaytime+=pos-start-last;
+                        $('#pgbar').css('width',100-totplaytime/60.00*100+"%")
+                        $('#pgbar').text(`${scoreCalc()} ${Math.floor(totplaytime*100)/100}/60.0 sec`)
+                    }
+                    if(totplaytime>=60){
+                        sound.stop()
+                        $('#playbtn')[0].disabled=true
+                    }
+                    last=pos-start;
+                }
+            },50);
+
+            $('.sconly').show()
+            $('.nmonly').hide()
+        }else{
+            $('.sconly').hide()
+            $('.nmonly').show()
+        }
     }
 
     function openInNewTab(url) {
@@ -211,6 +279,7 @@
         $('#play3btn')[0].disabled = true;
         $('#skipbtn')[0].disabled = false;
         tmp = null;
+        totplaytime = 0;
         genProb();
     }
 
@@ -238,6 +307,7 @@
     var correct = 0;
     var total = 0;
     var tmp = null;
+    var totScore = 0;
 
     function Next() {
         sound.stop();
@@ -263,6 +333,25 @@
 
         total++;
         $('#cpre').html((correct / total) * 100 + "%" + "(" + correct + "/" + total + ")");
+        
+        if($('#scss')[0].checked){
+            //calculate the score
+            if(selected == nowSong.name){
+                var sc=scoreCalc();
+                totScore+=sc;
+                $('#score').html(`${totScore} (avg. ${Math.floor(totScore/total)}) <b>+${sc}</b>`)
+
+                if($("#statIn")[0].checked){
+                    addToStat2(nowSong.name,sc);
+                }
+            }else{
+                $('#score').html(`${totScore} (avg. ${Math.floor(totScore/total)}) <b>-_-</b>`)
+                
+                if($("#statIn")[0].checked){
+                    addToStat2(nowSong.name,0);
+                }
+            }            
+        }
     }
 
     function unfold(proj) {
