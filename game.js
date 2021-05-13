@@ -39,7 +39,8 @@ var start = 0;
 function genProb() {
 
     if (avSong.length == 0) {
-        alert("测试结束。请刷新以重置。");
+        alert("测试结束。即将刷新");
+        location.reload();
         return;
     }
     ready = false;

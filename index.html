@@ -222,8 +222,12 @@
             return 100000;
         }
 
-        return Math.max(Math.floor(100000/55*(60-totplaytime)),10000)
-        // return Math.max(Math.floor((Math.sin(Math.PI/2-(totplaytime-5)*Math.PI/55)+1)/2*100000),10000)
+        // var f=function(x){
+        //     return (Math.log((x-4)/1000000))/Math.log(0.5)
+        // }
+        // return Math.max(Math.floor(f(totplaytime)/f(5)*100000),10000) //log
+        return Math.max(Math.floor(100000/55*(60-totplaytime)),10000) //linear
+        // return Math.max(Math.floor((Math.sin(Math.PI/2-(totplaytime-5)*Math.PI/55)+1)/2*100000),10000) //sin
     }
 
     function SettingDone() {
