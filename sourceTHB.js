@@ -191,12 +191,12 @@ Necro-Fantasia!!!东方妖妖梦!!!https://upload.thwiki.cc/0/04/th07_18.mp3
 走在夜晚的莲台野!!!莲台野夜行!!!https://upload.thwiki.cc/9/99/hr02_01.mp3
 少女秘封俱乐部!!!莲台野夜行!!!https://upload.thwiki.cc/d/dd/hr02_02.mp3
 古老的冥界寺!!!莲台野夜行!!!https://upload.thwiki.cc/5/52/hr02_04.mp3
-幻视之夜　～ Ghostly Eyes!!!莲台野夜行!!!https://upload.thwiki.cc/5/5b/hr02_05.mp3
 魔术师梅莉!!!莲台野夜行!!!https://upload.thwiki.cc/6/6c/hr02_06.mp3
 月之妖鸟、化猫之幻!!!莲台野夜行!!!https://upload.thwiki.cc/2/27/hr02_07.mp3
 过去的花　～ Fairy of Flower!!!莲台野夜行!!!https://upload.thwiki.cc/a/ad/hr02_08.mp3
 幻想的永远祭!!!莲台野夜行!!!https://upload.thwiki.cc/1/19/hr02_11.mp3
 永夜抄　～ Eastern Night.!!!东方永夜抄!!!https://upload.thwiki.cc/e/e2/th08_01.mp3
+幻视之夜　～ Ghostly Eyes!!!东方永夜抄!!!https://upload.thwiki.cc/d/d2/th08_02.mp3
 蠢蠢的秋月　～ Mooned Insect!!!东方永夜抄!!!https://upload.thwiki.cc/6/66/th08_03.mp3
 夜雀的歌声　～ Night Bird!!!东方永夜抄!!!https://upload.thwiki.cc/6/62/th08_04.mp3
 已经只能听见歌声了!!!东方永夜抄!!!https://upload.thwiki.cc/b/b4/th08_05.mp3
