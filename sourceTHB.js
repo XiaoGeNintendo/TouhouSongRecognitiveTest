@@ -652,18 +652,18 @@ After All!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/2/22/le03_14.
 焚烧小鸟们的黑羽!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/41/le04_STAGE_11.mp3
 必须前进的道路!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/a/a2/le04_STAGE_12.mp3
 花儿啊，凋零吧 ～ Consumed with JEALOUSY！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/9/97/le04_BOSS_Souko.mp3
-Nightmare Syndrome（梦魇症候群）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d0/le04_BOSS_Mitsumo.mp3
+Nightmare Syndrome!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d0/le04_BOSS_Mitsumo.mp3
 Made in Black ～ Double Snake!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/4d/le04_BOSS_Kurohebi.mp3
 雨水染上唐红色 ～DYE～!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/9/9a/le04_BOSS_Jun.mp3
 Emperor Road ～ So cute！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/1/10/le04_BOSS_Medias.mp3
-Slug Agent（蛞蝓特工队）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/7/7a/le04_BOSS_Kujiru.mp3
+Slug Agent!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/7/7a/le04_BOSS_Kujiru.mp3
 青岚 ～ Plastic Vortex!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d1/le04_BOSS_Aoji.mp3
 Act the Fool ～ HAHAHA!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/c/ce/le04_BOSS_Shou.mp3
 Let's 'n Go ～ to run away！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/a/ab/le04_BOSS_Tsugumi.mp3
 Killing Superior ～ Giant killing!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/a/a0/le04_BOSS_Kunimitsu.mp3
 醉狂之舞 ～ This drunkard！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/7/7b/le04_BOSS_Kaisen.mp3
-Prismic Drive（虹色疾驰）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/6/68/le04_BOSS_Lumen.mp3
-Necro Master（死冥之主）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/5/54/le04_BOSS_Sese.mp3
+Prismic Drive!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/6/68/le04_BOSS_Lumen.mp3
+Necro Master!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/5/54/le04_BOSS_Sese.mp3
 幽灵波动风 ～ not steady body!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/2/21/le04_BOSS_Iyozane.mp3
 绚烂至死 ～ Toxic gem!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/b/b9/le04_BOSS_Kaoru.mp3
 英雄参见！！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/c/c0/le04_BOSS_Garaiya.mp3
@@ -684,7 +684,7 @@ Eternal Power ～ BIG STAR!!!（连缘）连缘天影战记!!!https://upload.thw
 百命独缘 ～ Chimera soul!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d6/le04_BOSS_Shion.mp3
 决坏Overflow!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/0/0e/le04_BOSS_Tenkai.mp3
 MO-NA-D-2 ～ 记忆伪笔!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/b/b8/le04_BOSS_Suzumi_01.mp3
-Lost Jackpot（失落的头彩）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/5/58/le04_BOSS_Xeno_a.mp3
+Lost Jackpot!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/5/58/le04_BOSS_Xeno_a.mp3
 震道之真钢 ～ Cyclops Tech!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/c/ce/le04_BOSS_Yago.mp3
 永劫模仿演舞 ～ Spell Collector!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/1/12/le04_BOSS_Haiji.mp3
 崩坏的永劫舞蹈机关!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/48/le04_BOSS_Tsurubami.mp3
