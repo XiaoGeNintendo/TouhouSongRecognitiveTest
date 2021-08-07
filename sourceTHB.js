@@ -578,6 +578,121 @@ Lunar Rainbow!!!东方虹龙洞!!!https://upload.thwiki.cc/0/03/th18_12.mp3
 风暴过后的星期日!!!东方虹龙洞!!!https://upload.thwiki.cc/d/da/th18_16.mp3
 虹色的世界!!!东方虹龙洞!!!https://upload.thwiki.cc/e/e9/th18_17.mp3
 
+向着无现之里 ～ chain link？!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/d/d3/le01_01.mp3
+Exotic Crystal!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/1/19/le01_02.mp3
+Melanin in Black ～ Colt Snake!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/e/e7/le01_03.mp3
+摇动铁锚的趋势 ～ Lost Anchorage!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/6/69/le01_04.mp3
+搅拌刚体金刚 ～ Let's Joke！!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/5/5c/le01_05.mp3
+Extra Mind!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/8/8c/le01_06.mp3
+In this World ～ Monochrome_eye!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/f/ff/le01_07.mp3
+超越时空之翼 ～ M_theory!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/0/03/le01_08.mp3
+解冻冰结之心!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/7/75/le01_09.mp3
+Air Master！ ～ Soul_Dualism!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/2/27/le01_10.mp3
+将虚实表里反转!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/2/24/le01_11.mp3
+End of History!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/8/86/le01_12.mp3
+掌上之星!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/2/2d/le01_13.mp3
+Empire Power ～ Eternal_Force!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/7/76/le01_14.mp3
+凤雏天奔!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/9/99/le01_15.mp3
+腐朽呛人的记忆　～ BEGAN!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/c/c4/le01_16.mp3
+永劫舞蹈机关 ～ Shall_We_Dance！！!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/5/5e/le01_17.mp3
+蓊翳逝去的现实 ～ human_VISION!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/5/5d/le01_18.mp3
+散落亡佚的梦幻 ～ bard_VISION!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/9/96/le01_19.mp3
+
+妖异亦忌之憩 ～ Need umbrella！!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/2/2b/le02_01.mp3
+无损之功德 ～ go_to_work...?!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/2/2b/le02_02.mp3
+唐红色之长靴!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/2/22/le02_03.mp3
+Deep Waver!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/2/26/le02_04.mp3
+粘稠的海索面 ～ Act the FOOL HAHAHA!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/d/dd/le02_05.mp3
+若迷失归路 ～ KEEP IN!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/a/ad/le02_06.mp3
+Prismic Accelerator!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/c/cf/le02_07.mp3
+舐糠及米 ～ What&#39;s the matter?!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/c/c6/le02_08.mp3
+一文不值的聚财者!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/4/48/le02_09.mp3
+Radical History ～ 穿过双眸的记忆!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/4/42/le02_10.mp3
+埴轮相扑 ～ End of immolation!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/2/25/le02_11.mp3
+将悠久之沉眠，共刹那之瞬间!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/9/9b/le02_12.mp3
+在深邃徒云之下 ～ Mow Down！!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/5/51/le02_13.mp3
+独一无二的辉煌!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/d/d4/le02_14.mp3
+湮没瞬间的雪中胜景!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/3/32/le02_15.mp3
+Mono Eye ～ Ironic FATE!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/c/c0/le02_16.mp3
+破阵勇者们的闹剧 ～ Routine eventually!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/e/e9/le02_17.mp3
+井绳嘶鸣通小路 ～ Stream VISION!!!（连缘）连缘蛇从剑!!!https://upload.thwiki.cc/1/18/le02_18.mp3
+
+薄冰上的花 ～ Snowy country!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/a/ae/le03_01.mp3
+过于奢靡的平稳 ～ be motivated!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/f/f6/le03_02.mp3
+Mukuro Mancer ～ 空壳之梦!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/f/f9/le03_03.mp3
+阴翳冷气，沉寂灵气!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/9/97/le03_04.mp3
+Get Ready Go ～ to run around！!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/c/c1/le03_05.mp3
+Falling Ghost!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/a/a4/le03_06.mp3
+幽暗海峡启航!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/5/5c/le03_07.mp3
+各自的期许和足迹!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/5/58/le03_08.mp3
+空五倍子色的专注!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/6/65/le03_09.mp3
+Keep the History!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/a/a0/le03_10.mp3
+Double Keeper ～ 玄皓双生鸟!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/9/91/le03_11.mp3
+梦中遗忘的神圣萤火!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/f/ff/le03_12.mp3
+Moon Child ～ Homunculus Dream!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/a/a1/le03_13.mp3
+After All!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/2/22/le03_14.mp3
+被缘排斥的名字!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/2/20/le03_15.mp3
+开拓天空的迷失道!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/9/9c/le03_16.mp3
+显界Overhaul!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/b/be/le03_17.mp3
+潜藏于无现之物!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/9/91/le03_18.mp3
+徒然终结的行路!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/f/fe/le03_19.mp3
+蜉蝣之城 ～ Phantom VISION!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/b/b3/le03_20.mp3
+
+被掀开的枪火罩 ～ Slow Starter!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/7/74/le04_STAGE_00.mp3
+前进吧人之道，妖之道!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d7/le04_STAGE_01.mp3
+妖之病垂 ～ Outbreak!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/c/cd/le04_STAGE_02.mp3
+海峡今天也是风平浪静!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/2/20/le04_STAGE_03.mp3
+军靴声的幻听!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/6/62/le04_STAGE_04.mp3
+浓雾吞没的昼梦!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/da/le04_STAGE_05.mp3
+生长着的石墙，移动着的城郭!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/c/cc/le04_STAGE_06.mp3
+铁与油的理想乡!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/0/06/le04_STAGE_07.mp3
+阳炎之城 ～ Phantom ROAD!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/0/06/le04_STAGE_08.mp3
+天之顶 ～ Brilliant Pagoda!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/e/e8/le04_STAGE_09.mp3
+影之顶 ～ Haze Castle!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/1/1b/le04_STAGE_10.mp3
+焚烧小鸟们的黑羽!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/41/le04_STAGE_11.mp3
+必须前进的道路!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/a/a2/le04_STAGE_12.mp3
+花儿啊，凋零吧 ～ Consumed with JEALOUSY!!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/9/97/le04_BOSS_Souko.mp3
+Nightmare Syndrome（梦魇症候群）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d0/le04_BOSS_Mitsumo.mp3
+Made in Black ～ Double Snake!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/4d/le04_BOSS_Kurohebi.mp3
+雨水染上唐红色 ～DYE～!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/9/9a/le04_BOSS_Jun.mp3
+Emperor Road ～ So cute！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/1/10/le04_BOSS_Medias.mp3
+Slug Agent（蛞蝓特工队）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/7/7a/le04_BOSS_Kujiru.mp3
+青岚 ～ Plastic Vortex!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d1/le04_BOSS_Aoji.mp3
+Act the Fool ～ HAHAHA!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/c/ce/le04_BOSS_Shou.mp3
+Let's 'n Go ～ to run away！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/a/ab/le04_BOSS_Tsugumi.mp3
+Killing Superior ～ Giant killing!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/a/a0/le04_BOSS_Kunimitsu.mp3
+醉狂之舞 ～ This drunkard！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/7/7b/le04_BOSS_Kaisen.mp3
+Prismic Drive（虹色疾驰）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/6/68/le04_BOSS_Lumen.mp3
+Necro Master（死冥之主）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/5/54/le04_BOSS_Sese.mp3
+幽灵波动风 ～ not steady body!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/2/21/le04_BOSS_Iyozane.mp3
+绚烂至死 ～ Toxic gem!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/b/b9/le04_BOSS_Kaoru.mp3
+英雄参见！！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/c/c0/le04_BOSS_Garaiya.mp3
+Overheat Down!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/8/82/le04_BOSS_Hooaka.mp3
+見切り千両、目玉万両 ～ MONEY GAME!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/f/f1/le04_BOSS_Hibaru.mp3
+张开的眼瞳 ～ Mono EYE!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/5/5e/le04_BOSS_Saragimaru.mp3
+SILVER!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/8/8d/le04_BOSS_Sanra.mp3
+Microcosm ～ Homunculus nightmare!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d2/le04_BOSS_Para.mp3
+Loom the History!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/2/25/le04_BOSS_Kuroji.mp3
+Super Haniwa ～ NEXT FORM！！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/b/b9/le04_BOSS_Sukune.mp3
+触不到月亮的手 ～ Moon Child!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/8/80/le04_BOSS_Fumikado.mp3
+大天 ～ Spirit of nagara!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/a/a1/le04_BOSS_Mitori.mp3
+亡月之王!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/8/8b/le04_BOSS_Chouki.mp3
+常轨外的飞翔之羽 ～ Eleven-dimensional!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d4/le04_BOSS_Yabusame.mp3
+Another Mind!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/44/le04_BOSS_Tsubakura.mp3
+Eternal Power ～ BIG STAR!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/6/68/le04_BOSS_Clause.mp3
+被斩断的血缘!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/9/91/le04_BOSS_Yaorochi.mp3
+百命独缘 ～ Chimera soul!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d6/le04_BOSS_Shion.mp3
+决坏Overflow!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/0/0e/le04_BOSS_Tenkai.mp3
+MO-NA-D-2 ～ 记忆伪笔!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/b/b8/le04_BOSS_Suzumi_01.mp3
+Lost Jackpot（失落的头彩）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/5/58/le04_BOSS_Xeno_a.mp3
+震道之真钢 ～ Cyclops Tech!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/c/ce/le04_BOSS_Yago.mp3
+永劫模仿演舞 ～ Spell Collector!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/1/12/le04_BOSS_Haiji.mp3
+崩坏的永劫舞蹈机关!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/48/le04_BOSS_Tsurubami.mp3
+MO-NA-D-1 ～ 记忆追踪!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/1/16/le04_BOSS_Suzumi_02.mp3
+天影战记 ～ Playing soldiers!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/e/ef/le04_ETC_00.mp3
+祭典之后的沉默!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/6/6a/le04_ETC_01.mp3
+三种道路，三种未来 ～ Triple VISION!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/4b/le04_ETC_02.mp3
+
 幻想乡最漫长的一日!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/8/80/thHSoB_01.ogg
 沉默的春景!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/e/e7/thHSoB_02.ogg
 Scarlet Ranran!!!（同人）东方真珠岛!!!https://upload.thwiki.cc/f/fb/thHSoB_03.ogg
