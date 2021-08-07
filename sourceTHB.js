@@ -651,7 +651,7 @@ After All!!!（连缘）连缘灵烈传!!!https://upload.thwiki.cc/2/22/le03_14.
 影之顶 ～ Haze Castle!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/1/1b/le04_STAGE_10.mp3
 焚烧小鸟们的黑羽!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/41/le04_STAGE_11.mp3
 必须前进的道路!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/a/a2/le04_STAGE_12.mp3
-花儿啊，凋零吧 ～ Consumed with JEALOUSY!!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/9/97/le04_BOSS_Souko.mp3
+花儿啊，凋零吧 ～ Consumed with JEALOUSY！!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/9/97/le04_BOSS_Souko.mp3
 Nightmare Syndrome（梦魇症候群）!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/d/d0/le04_BOSS_Mitsumo.mp3
 Made in Black ～ Double Snake!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/4/4d/le04_BOSS_Kurohebi.mp3
 雨水染上唐红色 ～DYE～!!!（连缘）连缘天影战记!!!https://upload.thwiki.cc/9/9a/le04_BOSS_Jun.mp3
