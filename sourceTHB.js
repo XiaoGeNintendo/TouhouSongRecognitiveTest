@@ -578,6 +578,8 @@ Lunar Rainbow!!!东方虹龙洞!!!https://upload.thwiki.cc/0/03/th18_12.mp3
 风暴过后的星期日!!!东方虹龙洞!!!https://upload.thwiki.cc/d/da/th18_16.mp3
 虹色的世界!!!东方虹龙洞!!!https://upload.thwiki.cc/e/e9/th18_17.mp3
 
+日日是红日 ～ Folksy Touhou days!!!东方音焰火!!!https://upload.thwiki.cc/7/76/Folksy_Touhou_days.mp3
+
 向着无现之里 ～ chain link？!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/d/d3/le01_01.mp3
 Exotic Crystal!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/1/19/le01_02.mp3
 Melanin in Black ～ Colt Snake!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/e/e7/le01_03.mp3
