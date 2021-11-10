@@ -580,6 +580,12 @@ Lunar Rainbow!!!东方虹龙洞!!!https://upload.thwiki.cc/0/03/th18_12.mp3
 
 日日是红日 ～ Folksy Touhou days!!!东方音焰火!!!https://upload.thwiki.cc/7/76/Folksy_Touhou_days.mp3
 
+被水淹没的沉愁地狱!!!东方刚欲异闻!!!https://upload.thwiki.cc/4/4a/th175_01.mp3
+东方刚欲异闻!!!东方刚欲异闻!!!https://upload.thwiki.cc/f/fb/th175_02.ogg
+天理人欲!!!东方刚欲异闻!!!https://upload.thwiki.cc/2/2b/th175_03.mp3
+贪欲之兽的记忆!!!东方刚欲异闻!!!https://upload.thwiki.cc/2/20/th175_23.mp3
+全有机体的记忆　～ Memory of Fossil Energy.!!!东方刚欲异闻!!!https://upload.thwiki.cc/a/ae/th175_24.mp3
+
 向着无现之里 ～ chain link？!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/d/d3/le01_01.mp3
 Exotic Crystal!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/1/19/le01_02.mp3
 Melanin in Black ～ Colt Snake!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/e/e7/le01_03.mp3
