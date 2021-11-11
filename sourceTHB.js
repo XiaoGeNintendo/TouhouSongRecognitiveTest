@@ -583,6 +583,7 @@ Lunar Rainbow!!!东方虹龙洞!!!https://upload.thwiki.cc/0/03/th18_12.mp3
 被水淹没的沉愁地狱!!!东方刚欲异闻!!!https://upload.thwiki.cc/4/4a/th175_01.mp3
 东方刚欲异闻!!!东方刚欲异闻!!!https://upload.thwiki.cc/f/fb/th175_02.ogg
 天理人欲!!!东方刚欲异闻!!!https://upload.thwiki.cc/2/2b/th175_03.mp3
+大地之底，刚欲之海!!!东方刚欲异闻!!!https://upload.thwiki.cc/1/14/th175_09.mp3
 贪欲之兽的记忆!!!东方刚欲异闻!!!https://upload.thwiki.cc/2/20/th175_23.mp3
 全有机体的记忆　～ Memory of Fossil Energy.!!!东方刚欲异闻!!!https://upload.thwiki.cc/a/ae/th175_24.mp3
 
