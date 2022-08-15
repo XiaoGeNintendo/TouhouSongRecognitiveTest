@@ -589,6 +589,14 @@ Lunar Rainbow!!!东方虹龙洞!!!https://upload.thwiki.cc/0/03/th18_12.mp3
 
 七石之狼、登天吞云!!!虹色的北斗七星!!!https://upload.thwiki.cc/b/b1/hr11_01.mp3
 
+收藏家的忧郁午后!!!弹幕狂们的黑市!!!https://upload.thwiki.cc/d/d2/th18.5_01.mp3
+令人心跳的司空见惯幻想乡!!!弹幕狂们的黑市!!!https://upload.thwiki.cc/4/43/th18.5_03.mp3
+妖怪上钩!!!弹幕狂们的黑市!!!https://upload.thwiki.cc/3/30/th18.5_02.mp3
+黑市无处不在!!!弹幕狂们的黑市!!!https://upload.thwiki.cc/3/32/th18.5_04.mp3
+拿起弹幕吧，弹幕狂们!!!弹幕狂们的黑市!!!https://upload.thwiki.cc/2/2a/th18.5_05.mp3
+第100次黑市!!!弹幕狂们的黑市!!!https://upload.thwiki.cc/f/fe/th18.5_06.mp3
+
+
 向着无现之里 ～ chain link？!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/d/d3/le01_01.mp3
 Exotic Crystal!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/1/19/le01_02.mp3
 Melanin in Black ～ Colt Snake!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/e/e7/le01_03.mp3
