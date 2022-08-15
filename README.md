@@ -12,3 +12,5 @@
 [Netease](https://music.163.com)
 
 Special Thanks to [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) and [teng-koa](https://github.com/a632079/teng-koa) for making this possible!
+
+**Note: Netease source relies on hitokoto API. As the API can't be connected, Netease source is not maintained for now.**
