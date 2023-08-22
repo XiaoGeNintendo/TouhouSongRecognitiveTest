@@ -596,6 +596,17 @@ Lunar Rainbow!!!东方虹龙洞!!!https://upload.thwiki.cc/0/03/th18_12.mp3
 拿起弹幕吧，弹幕狂们!!!弹幕狂们的黑市!!!https://upload.thwiki.cc/2/2a/th18.5_05.mp3
 第100次黑市!!!弹幕狂们的黑市!!!https://upload.thwiki.cc/f/fe/th18.5_06.mp3
 
+兽之智慧!!!东方兽王园!!!https://upload.thwiki.cc/a/ae/th19_01.mp3
+世间万物皆可爱!!!东方兽王园!!!https://upload.thwiki.cc/1/11/th19_02.mp3
+魔兽紧急升空!!!东方兽王园!!!https://upload.thwiki.cc/6/66/th19_03.mp3
+悠久山上鬼!!!东方兽王园!!!https://upload.thwiki.cc/1/1b/th19_04.mp3
+Tiny Shangri-la!!!东方兽王园!!!https://upload.thwiki.cc/1/1d/th19_05.mp3
+勇敢又慵懒的妖兽!!!东方兽王园!!!https://upload.thwiki.cc/f/f7/th19_06.mp3
+吸血怪兽卓柏卡布拉!!!东方兽王园!!!https://upload.thwiki.cc/b/ba/th19_07.mp3
+不回首的黄泉路!!!东方兽王园!!!https://upload.thwiki.cc/7/71/th19_08.mp3
+越轨者们的无碍光　～ Kingdam of Nothingness.!!!东方兽王园!!!https://upload.thwiki.cc/9/9b/th19_09.mp3
+兽王们的小憩!!!东方兽王园!!!https://upload.thwiki.cc/8/89/th19_21.mp3
+野兽有智慧吗!!!东方兽王园!!!https://upload.thwiki.cc/2/20/th19_22.mp3
 
 向着无现之里 ～ chain link？!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/d/d3/le01_01.mp3
 Exotic Crystal!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/1/19/le01_02.mp3
