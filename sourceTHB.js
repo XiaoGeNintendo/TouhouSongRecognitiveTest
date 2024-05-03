@@ -608,6 +608,12 @@ Tiny Shangri-la!!!东方兽王园!!!https://upload.thwiki.cc/1/1d/th19_05.mp3
 兽王们的小憩!!!东方兽王园!!!https://upload.thwiki.cc/8/89/th19_21.mp3
 野兽有智慧吗!!!东方兽王园!!!https://upload.thwiki.cc/2/20/th19_22.mp3
 
+日出七夕坂!!!七夕坂梦幻能!!!https://upload.thwiki.cc/b/bb/hr12_01.mp3
+不等式的廷克·贝尔!!!七夕坂梦幻能!!!https://upload.thwiki.cc/f/f6/hr12_02.mp3
+梦幻能 ～ Taboo Marionette!!!七夕坂梦幻能!!!https://upload.thwiki.cc/4/47/hr12_05.mp3
+独自一人的常陆行路!!!七夕坂梦幻能!!!https://upload.thwiki.cc/8/82/hr12_08.mp3
+毕竟就算不是夜晚也有鬼怪!!!七夕坂梦幻能!!!https://upload.thwiki.cc/3/37/hr12_11.mp3
+
 向着无现之里 ～ chain link？!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/d/d3/le01_01.mp3
 Exotic Crystal!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/1/19/le01_02.mp3
 Melanin in Black ～ Colt Snake!!!（连缘）连缘无现里!!!https://upload.thwiki.cc/e/e7/le01_03.mp3
